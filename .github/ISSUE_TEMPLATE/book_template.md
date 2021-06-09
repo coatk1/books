@@ -17,4 +17,4 @@ Title
 * Rating: #/5
 * Completed: MM/YYYY
 * Link to notes: N/A
-* Link to Amazon:
+* Link to Amazon: 
