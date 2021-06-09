@@ -10,11 +10,8 @@ assignees: ''
 - [ ] Recommended
 - [ ] Currently Owned
 
-Book Information
-================
-
 Title
------
+=====
 * Author(s): 
 * ISBN: 
 * Rating: #/5
