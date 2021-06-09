@@ -12,15 +12,15 @@ The 5 Love Languages The Secret to Love That Lasts
 * Rating: 5/5
 * Completed: 1/2021
 
-The 5 Love Languages of Children
-================================
+The 5 Love Languages of Children: The Secret to Loving Children Effectively
+===========================================================================
 * Author(s): Gary Chapman and Ross Campbell
 * ISBN: 978-0-8024-1285-0
 * Rating: 4/5
 * Completed: 2/2021
 
-The 5 Love Languages for Men
-================================
+The 5 Love Languages for Men: Tools for Making a Good Relationship Great
+========================================================================
 * Author(s): Gary Chapman and Randy Southern
 * ISBN: 978-0-8024-1272-0
 * Rating: 2/5
