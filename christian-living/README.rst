@@ -6,7 +6,7 @@ Christian Living
 
 Boundaries Updated and Expanded Edition
 =======================================
-* Author(s): Dr Cloud and Dr Townsend
+* Author(s): Dr. Henry Cloud and Dr. John Townsend
 * ISBN: 978-0-310-35180-1
 * Rating: 5/5
 * Completed: 12/2020
@@ -14,7 +14,7 @@ Boundaries Updated and Expanded Edition
 
 Boundaries with Kids
 ====================
-* Author(s): Dr Cloud and Dr Townsend
+* Author(s): Dr. Henry Cloud and Dr. John Townsend
 * ISBN: 978-0-310-24315-1
 * Rating: 4.5/5
 * Completed: 01/2021
