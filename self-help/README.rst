@@ -10,7 +10,7 @@ Atomic Habits
 * ISBN: 978-0-735-21129-2
 * Rating: 3.5/5
 * Completed: 03/2021
-* `Notes <https://github.com/coatk1/books/blob/master/self-help/habits.rst>`__
+* Link to notes: `Here <https://github.com/coatk1/books/blob/master/self-help/habits.rst>`__
 
 What Every Body Is Saying
 =========================
@@ -18,4 +18,4 @@ What Every Body Is Saying
 * ISBN: 978-0-061-43829-5
 * Rating: 4/5
 * Completed: 04/2021
-* `Notes <https://github.com/coatk1/books/blob/master/self-help/body-language.rst>`__
+* Link to notes: `Here <https://github.com/coatk1/books/blob/master/self-help/body-language.rst>`__
