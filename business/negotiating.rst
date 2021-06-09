@@ -4,15 +4,8 @@ Negotiating
 
 .. contents::
 
-Never Split The Difference
-==========================
-* Author(s): Chris Voss with Tahl Raz
-* ISBN: 978-1-847-94149-7
-* Rating: 5/5
-* Completed: 3/2021
-
 Notes
------
+=====
 * Never Split The Difference, pg(s): 12, 19, 151-152, 154, 157-158, 209, 238
 * https://www.blackswanltd.com/home
 * https://www.grahammann.net/book-notes/never-split-the-difference-chris-voss
@@ -30,7 +23,7 @@ Notes
 * Summarizing interest and positions at stake
 
 Summary
-+++++++
+-------
 * Build rapport with empathy
 
   * Mirror (with calm voice)
@@ -42,7 +35,7 @@ Summary
 * Bargain (framing/ loss aversion, have an anchor or range, use precise/ odd numbers, and non-monetary items)
 
 Isopraxism (Mirroring)
-++++++++++++++++++++++
+----------------------
 * **Don't make assumptions. Be open-minded and gather as much information as possible.**
 * **Focus on what the other person needs by helping them talk about their wants. Create trust and safety.**
 * Focus on your demeanor and delivery aka who you are and not what to say or do.
@@ -63,7 +56,7 @@ Isopraxism (Mirroring)
   * Be silent
 
 Labeling
-++++++++
+--------
 * Separate person and emotion from problem.
 * Focus on interests (why they're asking).
 * **Empathy: understanding your counterpart's perspective or point of view and vocalizing/acknowledging it. Understanding doesn't mean agreeing. Seeing why their actions make sense to them.**
@@ -82,7 +75,7 @@ Labeling
 * **Accusation Audit: listing all negative things your counterpart could say about you.**
 
 Beware Yes, Master No
-+++++++++++++++++++++
+---------------------
 * No starts the negotiation.
 * **No gives us safety, security, autonomy, and control.**
 * Allow others to say no to you.
@@ -108,7 +101,7 @@ Beware Yes, Master No
 * **Mislabel a feeling to get a non-responsive counterpart to say No.**
 
 Trigger Words
-+++++++++++++
+-------------
 * Behavioral Change Stairway Model (BCSM)
 
   * Active Listening
@@ -131,7 +124,7 @@ Trigger Words
 * "You're Right" is synonymous to a Counterfeit Yes. 
 
 Bending Reality
-+++++++++++++++
+---------------
 * **Don't compromise because it is easy and avoids conflict.**
 * **Deadlines are arbitrary, flexible, and rarely have consequences. They causes people to rush decisions, to avoid missing out.**
 * No deal is better than a bad deal.
@@ -162,7 +155,7 @@ Bending Reality
 * **When negotiating, it's just as impactful to show what your counterpart has to lose as well as what they have to gain.**
 
 Illusion of Control
-+++++++++++++++++++
+-------------------
 * **Remove aggression by asking (what or how) calibrated questions.**
 * **Acknowledge their ideas and get them to solve YOUR problem.**
 * **Give illusion of control by asking for help.**
@@ -178,7 +171,7 @@ Illusion of Control
 * **Avoid Yes-oriented questions to prevent reciprocity.**
 
 Guarantee Execution
-+++++++++++++++++++
+-------------------
 * **Ask How instead of saying No. Also prompts implementation. Asking How is a hidden No.**
 * Let someone else have your way. - Chris Voss
 * Let them define success
@@ -212,7 +205,7 @@ Guarantee Execution
 * **Yes is nothing without How.**
 
 Bargain Hard
-++++++++++++
+------------
 * **3 Types:**
 
   * Analyst: don't ask a lot of questions, use data to disagree, be upfront with issues, use labels.
@@ -236,7 +229,7 @@ Bargain Hard
 * **Be prepared. You fall to your highest level of preparation.**
 
 Black Swan
-++++++++++
+----------
 * **Let known knowns guide you, not blind you.**
 * **Black Swan: hidden and unexpected pieces of information (unknown unknowns), whose uncovering has game changing effects. They are leverage multipliers.**
 * Leverage: ability to inflict loss and withhold gain. What do your counterpart want to gain and what do they fear.
