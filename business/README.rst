@@ -25,8 +25,8 @@ Accounting Made Simple
 * Rating: 3/5
 * Completed: 2/2021
 
-Never Split the Difference: Negotiating as if Your Life Depended on It
-======================================================================
+Never Split the Difference
+==========================
 * Author(s): Chris Voss with Tahl Raz
 * ISBN: 978-1-847-94149-7
 * Rating: 5/5
