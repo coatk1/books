@@ -1,7 +1,7 @@
 ---
 name: Book Template
 about: Book to read.
-title: '[BOOK NAME]'
+title: 'BOOK NAME'
 labels: ''
 assignees: ''
 
