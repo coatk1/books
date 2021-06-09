@@ -5,7 +5,7 @@ Habits
 .. contents::
 
 Atomic Habits
--------------
+=============
 * Author(s): James Clear
 * ISBN: 978-0-735-21129-2
 * Rating: 3.5/5
@@ -45,7 +45,7 @@ Notes
 * Don’t over identify with identity otherwise we fail to grow.
 
 Cue
------
++++
 * Have awareness of what your doing. Pointing and calling may help.
 * **Implementation intention = I will [BEHAVIOR] at [TIME] in [LOCATION]**
 * **Habit stacking = After [CURRENT HABIT] I will [NEW HABIT]**
@@ -55,7 +55,7 @@ Cue
 * **Change environment to change habits so new habits don’t compete with old ones**
 
 Craving
----------
++++++++
 * **Make good habits attractive by, finding positive benefits and associating positive feelings with them (do something enjoyable before difficult habit to gain motivation).**
 * **Make bad habits unattractive by, finding negative benefits, and associating negative feelings with them.**
 * Dopamine is released both when you experience and anticipate pleasure
@@ -74,7 +74,7 @@ Craving
 * Prediction -> Feeling -> Habit
 
 Response
------------
+++++++++
 * **Make good habits; easy to access, have less friction.**
 * **Make bad habits; difficult to access, have more friction.**
 * Practice > Planning
@@ -88,7 +88,7 @@ Response
 * **Automate habits with technology or by making one-time decisions today that will benefit you in the future, enhance good habits and restrict bad habits.**
 
 Reward
---------
+++++++
 * **Make it satisfying. Use immediate reinforcement to reward yourself on small wins.**
 * **Make it unsatisfying. Add immediate pain/cost with accountability partner or a habit contract. Pain must be greater than the correct behavior.**
 * What is immediately rewarded is repeated and what is immediately punished is avoided.
