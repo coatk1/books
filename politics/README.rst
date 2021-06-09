@@ -10,6 +10,7 @@ Politics and Social Science
 * ISBN: 978-1-476-79605-5
 * Rating: 5/5
 * Completed: 01/2021
+* Link to notes: N/A
 
 100 Deadly Skills Survival Edition
 ==================================
@@ -17,3 +18,4 @@ Politics and Social Science
 * ISBN: 978-1-5011-4390-8
 * Rating: 5/5
 * Completed: 02/2021
+* Link to notes: N/A
