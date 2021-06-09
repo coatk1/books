@@ -4,22 +4,15 @@ Body Language
 
 .. contents::
 
-What Every Body Is Saying: An Ex-FBI Agent's Guide to Speed-Reading People
-==========================================================================
-* Author(s): Joe Navarro with Marvin Karlins
-* ISBN: 978-0-061-43829-5
-* Rating: 4/5
-* Completed: 4/2021
-
 Notes
------
+=====
 * What Every Body Is Saying, pg(s): 167-168, 177, 180, 190, 218-219, 226-230
 * https://www.jnforensics.com/media
 * https://www.nateliason.com/notes/what-every-body-is-saying-joe-navarro
 * https://www.naveedjan.com/notes/what-every-body-is-saying
 
 Commandments for Observing and Decoding Nonverbal Communication
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---------------------------------------------------------------
 1. Situational awareness
 2. People's response to situation given context
 3. Behaviors any/everyone does
@@ -32,7 +25,7 @@ Commandments for Observing and Decoding Nonverbal Communication
 10. Be subtle observing others
 
 Limbic Brain
-++++++++++++
+------------
 * Limbic part of brain = emotions, expressions, reflexes (most natural/ honest)
 * Limbic responses are natural and difficult to disguise
 * Neocortex part of brain = intellect, cognition, and memory (least natural/ honest)
@@ -68,7 +61,7 @@ Limbic Brain
   * Greater stress = greater pacifying
 
 Legs
-++++
+----
 * Feet and legs are the most honest part of our body.
 * Truthfulness decreases when moving from feet to head.
 * Happy Feet/ Leg Bouncing/ Wiggling indicates high level of confidence or impatience.
@@ -91,7 +84,7 @@ Legs
 * Foot/Ankle Locking indicates insecurity, anxiety, fear or concern.
 
 Torso
-+++++
+-----
 * Torso Lean forward indicates comfort and agreement.
 * Torso Lean backward indicates discomfort and disagreement.
 * Ventral Fronting/ Exposure: turn front side of our body towards things we like.
@@ -108,7 +101,7 @@ Torso
 * Weak Shoulder Displays/ Turtle Effect indicates low confidence, discomfort, weakness, insecurity, and negative emotions.
 
 Arms
-++++
+----
 * Gravity-Related Arm Movements; raised arms indicates happiness and confidence. Lowered arms indicates sadness and insecurity.
 * Arm Withdrawal indicates fear, injury, anxiety, or low confidence.
 * Restriction of Arm Movement/ Arm Freeze indicates fear and lack of detection.
@@ -121,7 +114,7 @@ Arms
 * Arms as Conduits of Affection: giving hugs.
 
 Hands and Fingers
-+++++++++++++++++
+-----------------
 * Hand movements can effect our credibility and persuasiveness.
 * Hidden hands creates a negative impression; can indicate discomfort, withdrawal, and deception. Visible hands are more positive; indicates openness and friendliness.
 * Hand Shakes are the first physical contact we have with others and can leave a positive or negative impression. Physical touching among other cultures is typically a sign of respect and comfort.
@@ -142,7 +135,7 @@ Hands and Fingers
 * Microgesture: a brief attempt to suppress normal response to negative stimulus. The more reflexive and short-lived the behavior, the more truthful it is.
 
 Face and Neck
-+++++++++++++
+-------------
 * Jaw Tightening indicates tension.
 * Head tilt indicates comfort, receptive, and friendly.
 * Eyes are the most honest part of the face.
@@ -179,7 +172,7 @@ Face and Neck
 * When getting mixed signals go with the first emotion observed, especially if it is negative as that will be the true sentiment.
 
 Deception
-+++++++++
+---------
 * Society functions based on people's word.
 * People mistake stress or other nonverbal behaviors as deception.
 * No single behavior indicates deception.
