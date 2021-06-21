@@ -1,0 +1,8 @@
+# Ignore files you did not write.
+
+# IDE settings
+.vscode/
+
+# Command files
+*.cmd
+*.sh
