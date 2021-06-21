@@ -2,6 +2,9 @@
 books
 =====
 
+.. image:: https://img.shields.io/github/repo-size/coatk1/books
+ :target: https://github.com/coatk1/books
+
 .. contents::
 
 This repository is a library of all books I have read, plus with some notes.
