@@ -21,3 +21,18 @@ Sections
 Resources
 =========
 * https://www.dictionary.com/
+
+Other Book Notes
+================
+
+Business
+--------
+
+Politics
+--------
+
+Relationships
+-------------
+
+Self Help
+---------
