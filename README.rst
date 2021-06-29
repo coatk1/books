@@ -22,3 +22,4 @@ Sections
 Resources
 =========
 * https://www.dictionary.com/
+* https://www.blinkist.com/
