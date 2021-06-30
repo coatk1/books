@@ -23,3 +23,6 @@ Resources
 =========
 * https://www.dictionary.com/
 * https://www.blinkist.com/
+* https://www.audible.com/
+* https://www.amazon.com/
+* https://www.goodreads.com/
