@@ -7,6 +7,10 @@ Other Book Notes
 Business
 ========
 
+The Intelligent Investor
+------------------------
+* https://ashishb.net/book-summary/book-summary-the-intelligent-investor-by-benjamin-graham/
+
 Mastery
 -------
 * https://www.grahammann.net/book-notes/mastery-robert-greene
@@ -46,3 +50,7 @@ The Art of Seduction
 
 Self Help
 =========
+
+The Life-Changing Magic of Tidying Up 
+-------------------------------------
+* https://www.nateliason.com/notes/life-changing-magic-tidying-marie-kondo
