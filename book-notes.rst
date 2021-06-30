@@ -7,10 +7,6 @@ Other Book Notes
 Business
 ========
 
-The Intelligent Investor
-------------------------
-* https://ashishb.net/book-summary/book-summary-the-intelligent-investor-by-benjamin-graham/
-
 Mastery
 -------
 * https://www.grahammann.net/book-notes/mastery-robert-greene
