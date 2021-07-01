@@ -11,6 +11,11 @@ Business
 -------------------------------------------------------
 * https://www.f5fp.com/book-summary-15-secrets-successful-people-know-about-time-management/
 
+Contagious
+----------
+* https://www.samuelthomasdavies.com/book-summaries/business/contagious
+* https://www.nateliason.com/notes/contagious-jonah-berger
+
 Mastery
 -------
 * https://www.grahammann.net/book-notes/mastery-robert-greene
