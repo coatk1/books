@@ -38,6 +38,10 @@ The 7 Habits of Highly Effective People
 ---------------------------------------
 * https://tylerdevries.com/book-summaries/the-7-habits-of-highly-effective-people/
 
+The Psychology of Money
+-----------------------
+* https://www.grahammann.net/book-notes/the-psychology-of-money-morgan-housel
+
 
 Politics
 ========
