@@ -7,6 +7,10 @@ Other Book Notes
 Business
 ========
 
+15 Secrets Successful People Know About Time Management
+-------------------------------------------------------
+* https://www.f5fp.com/book-summary-15-secrets-successful-people-know-about-time-management/
+
 Mastery
 -------
 * https://www.grahammann.net/book-notes/mastery-robert-greene
