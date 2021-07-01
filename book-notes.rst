@@ -25,6 +25,11 @@ The 5 AM Club
 * https://ignorelimits.com/the-5am-club-book-summary/
 * https://medium.com/saimadhu-writings/the-5-am-club-book-review-and-keynotes-f332737c122a
 
+The 7 Habits of Highly Effective People
+---------------------------------------
+* https://tylerdevries.com/book-summaries/the-7-habits-of-highly-effective-people/
+
+
 Politics
 ========
 
