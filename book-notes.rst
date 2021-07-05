@@ -25,6 +25,10 @@ Poor Charlie's Almanack
 -----------------------
 * https://www.grahammann.net/book-notes/poor-charlies-almanack-charles-munger
 
+The 4-Hour Workweek
+-------------------
+* https://www.naveedjan.com/notes/the-4-hour-work-week
+
 The 33 Strategies of War
 ------------------------
 * https://www.grahammann.net/book-notes/the-33-strategies-of-war-robert-greene
