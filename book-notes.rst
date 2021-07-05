@@ -16,6 +16,10 @@ Contagious
 * https://www.samuelthomasdavies.com/book-summaries/business/contagious
 * https://www.nateliason.com/notes/contagious-jonah-berger
 
+Extreme Ownership
+-----------------
+* https://progressninja.com/book-notes-extreme-ownership/
+
 Mastery
 -------
 * https://www.grahammann.net/book-notes/mastery-robert-greene
