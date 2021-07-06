@@ -7,9 +7,6 @@ assignees: ''
 
 ---
 
-- [ ] Recommended
-- [ ] Currently Owned
-
 Title
 =====
 * Author(s): 
