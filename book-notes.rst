@@ -77,6 +77,10 @@ The Art of Seduction
 Self Help
 =========
 
+Fluent Forever
+--------------
+* https://www.grahammann.net/book-notes/fluent-forever-gabriel-wyner
+
 The Life-Changing Magic of Tidying Up 
 -------------------------------------
 * https://www.nateliason.com/notes/life-changing-magic-tidying-marie-kondo
