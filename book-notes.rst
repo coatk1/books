@@ -81,6 +81,11 @@ Fluent Forever
 --------------
 * https://www.grahammann.net/book-notes/fluent-forever-gabriel-wyner
 
+The Four Agreements
+-------------------
+* https://marloyonocruz.com/2018/11/26/book-notes-the-four-agreements-by-don-miguel-ruiz/
+* https://www.codymclain.com/notes/the-four-agreements
+
 The Life-Changing Magic of Tidying Up 
 -------------------------------------
 * https://www.nateliason.com/notes/life-changing-magic-tidying-marie-kondo
