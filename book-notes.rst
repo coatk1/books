@@ -55,6 +55,11 @@ The Way of the Superior Man
 Relationships
 =============
 
+How Children Succeed
+--------------------
+* https://github.com/mgp/book-notes/blob/master/how-children-succeed.markdown
+* https://www.fatherly.com/parenting/book-summary-how-children-succeed-paul-tough/
+
 The Art of Seduction
 --------------------
 * https://www.grahammann.net/book-notes/the-art-of-seduction-robert-greene
