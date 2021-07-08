@@ -7,10 +7,6 @@ Other Book Notes
 Business
 ========
 
-15 Secrets Successful People Know About Time Management
--------------------------------------------------------
-* https://www.f5fp.com/book-summary-15-secrets-successful-people-know-about-time-management/
-
 Contagious
 ----------
 * https://www.samuelthomasdavies.com/book-summaries/business/contagious
@@ -36,15 +32,6 @@ The 4-Hour Workweek
 The 33 Strategies of War
 ------------------------
 * https://www.grahammann.net/book-notes/the-33-strategies-of-war-robert-greene
-
-The 5 AM Club
--------------
-* https://ignorelimits.com/the-5am-club-book-summary/
-* https://medium.com/saimadhu-writings/the-5-am-club-book-review-and-keynotes-f332737c122a
-
-The 7 Habits of Highly Effective People
----------------------------------------
-* https://tylerdevries.com/book-summaries/the-7-habits-of-highly-effective-people/
 
 The Psychology of Money
 -----------------------
@@ -77,9 +64,22 @@ The Art of Seduction
 Self Help
 =========
 
+15 Secrets Successful People Know About Time Management
+-------------------------------------------------------
+* https://www.f5fp.com/book-summary-15-secrets-successful-people-know-about-time-management/
+
 Fluent Forever
 --------------
 * https://www.grahammann.net/book-notes/fluent-forever-gabriel-wyner
+
+The 5 AM Club
+-------------
+* https://ignorelimits.com/the-5am-club-book-summary/
+* https://medium.com/saimadhu-writings/the-5-am-club-book-review-and-keynotes-f332737c122a
+
+The 7 Habits of Highly Effective People
+---------------------------------------
+* https://tylerdevries.com/book-summaries/the-7-habits-of-highly-effective-people/
 
 The Four Agreements
 -------------------
