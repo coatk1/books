@@ -67,6 +67,7 @@ Self Help
 15 Secrets Successful People Know About Time Management
 -------------------------------------------------------
 * https://www.f5fp.com/book-summary-15-secrets-successful-people-know-about-time-management/
+* https://pocketbook4you.com/en/read/15-secrets-successful-people-know-about-time-management
 
 Fluent Forever
 --------------
@@ -93,3 +94,12 @@ The Life-Changing Magic of Tidying Up
 The Miracle Morning
 -------------------
 * https://brandongaille.com/miracle-morning-summary/
+* https://pocketbook4you.com/en/read/the-miracle-morning
+
+The Miracle Equation
+--------------------
+* https://fourminutebooks.com/the-miracle-equation-summary/
+
+Miracle Morning Millionaires
+----------------------------
+* https://pocketbook4you.com/en/read/miracle-morning-millionaires
