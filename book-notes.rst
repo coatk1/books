@@ -108,3 +108,8 @@ The Miracle Equation
 Miracle Morning Millionaires
 ----------------------------
 * https://pocketbook4you.com/en/read/miracle-morning-millionaires
+
+The Power of Self-Confidence
+----------------------------
+* https://pocketbook4you.com/en/read/the-power-of-self-confidence
+* https://www.codymclain.com/notes/the-power-of-self-confidence
