@@ -19,3 +19,11 @@ Self-Help
 * Rating: 4/5
 * Completed: 04/2021
 * Link to notes: `Here <https://github.com/coatk1/books/blob/master/self-help/body-language.rst>`__
+
+3. How to Get Out of Your Own Way
+=================================
+* Author(s): Tyrese Gibson
+* ISBN: 
+* Rating: 3/5
+* Completed: ~12/2016
+* Link to notes: `Here < https://github.com/coatk1/books/blob/master/self-help/how-to-get-out-of-your-own-way.rst>`__
