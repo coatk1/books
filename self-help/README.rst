@@ -23,7 +23,7 @@ Self-Help
 3. How to Get Out of Your Own Way
 =================================
 * Author(s): Tyrese Gibson
-* ISBN: 
+* ISBN: 978-0-446-57222-4
 * Rating: 3/5
 * Completed: ~12/2016
-* Link to notes: `Here < https://github.com/coatk1/books/blob/master/self-help/how-to-get-out-of-your-own-way.rst>`__
+* Link to notes: `Here <https://github.com/coatk1/books/blob/master/self-help/how-to-get-out-of-your-own-way.rst>`__
