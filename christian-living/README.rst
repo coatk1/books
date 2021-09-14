@@ -18,7 +18,7 @@ Christian Living
 * ISBN: 978-0-310-24315-1
 * Rating: 4.5/5
 * Completed: 01/2021
-* Link to notes: See above
+* Link to notes: See Boundaries Updated and Expanded Edition
 
 3. The 5 Love Languages The Secret to Love That Lasts
 =====================================================
@@ -35,7 +35,7 @@ Christian Living
 * ISBN: 978-0-8024-1285-0
 * Rating: 4/5
 * Completed: 02/2021
-* Link to notes: See above
+* Link to notes: See The 5 Love Languages The Secret to Love That Lasts
 
 5. The 5 Love Languages for Men
 ===============================
@@ -44,3 +44,12 @@ Christian Living
 * Rating: 2/5
 * Completed: 02/2021
 * Link to notes: N/A
+
+6. Marriage on the Rock
+=======================
+* Author(s): Jimmy Evans
+* ISBN: 978-0-9647435-0-2
+* Rating: 5/5
+* Completed: 07/2021
+* Link to notes: `Here <https://github.com/coatk1/books/blob/master/christian-living/marriage-on-the-rock.rst>`__
+* Link to Amazon: https://www.amazon.com/Marriage-Rock-25th-Anniversary-Comprehensive/dp/1950113205/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1631263669&sr=8-1-spons
