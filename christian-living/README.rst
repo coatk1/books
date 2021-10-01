@@ -53,3 +53,12 @@ Christian Living
 * Completed: 07/2021
 * Link to notes: `Here <https://github.com/coatk1/books/blob/master/christian-living/marriage-on-the-rock.rst>`__
 * Link to Amazon: https://www.amazon.com/Marriage-Rock-25th-Anniversary-Comprehensive/dp/1950113205/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1631263669&sr=8-1-spons
+
+7. Entredisciplineship
+======================
+* Author(s): Ronald Callender
+* ISBN: 978-1-7354356-3-3
+* Rating: 5/5
+* Completed: 10/2021
+* Link to notes: N/A
+* Link to Amazon: https://www.amazon.com/EntreDiscipleship-Day-Devotional-Biblical-Entrepreneurship/dp/1735435635/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
