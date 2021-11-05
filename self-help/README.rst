@@ -11,6 +11,7 @@ Self-Help
 * Rating: 3.5/5
 * Completed: 03/2021
 * Link to notes: `Here <https://github.com/coatk1/books/blob/master/self-help/habits.rst>`__
+* Link to Amazon: https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299
 
 2. What Every Body Is Saying
 ============================
@@ -19,6 +20,7 @@ Self-Help
 * Rating: 4/5
 * Completed: 04/2021
 * Link to notes: `Here <https://github.com/coatk1/books/blob/master/self-help/body-language.rst>`__
+* Link to Amazon: https://www.amazon.com/What-Every-Body-Saying-Speed-Reading/dp/0061438294
 
 3. How to Get Out of Your Own Way
 =================================
