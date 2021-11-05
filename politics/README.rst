@@ -11,6 +11,7 @@ Politics and Social Science
 * Rating: 5/5
 * Completed: 01/2021
 * Link to notes: N/A
+* Link to Amazon: https://www.amazon.com/100-Deadly-Skills-Operatives-Surviving/dp/147679605X
 
 2. 100 Deadly Skills Survival Edition
 =====================================
@@ -19,3 +20,4 @@ Politics and Social Science
 * Rating: 5/5
 * Completed: 02/2021
 * Link to notes: N/A
+* Link to Amazon: https://www.amazon.com/100-Deadly-Skills-Operatives-Surviving/dp/1501143905
