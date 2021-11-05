@@ -33,11 +33,6 @@ The 33 Strategies of War
 ------------------------
 * https://www.grahammann.net/book-notes/the-33-strategies-of-war-robert-greene
 
-The Millionaire Next Door
--------------------------
-* https://brandongaille.com/the-millionaire-next-door-summary/
-* http://www.leveluplifestyle.net/the-millionaire-next-door-summary/
-
 The Psychology of Money
 -----------------------
 * https://www.grahammann.net/book-notes/the-psychology-of-money-morgan-housel
