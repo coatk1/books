@@ -35,3 +35,12 @@ Business/ Financial
 * Rating: 5/5
 * Completed: 03/2021
 * Link to notes: `Here <https://github.com/coatk1/books/blob/master/business/negotiating.rst>`__ 
+
+5. The Millionaire Next Door
+============================
+* Author(s): Thomas Stanley and William Danko
+* ISBN: 978-1589795471
+* Rating: 2/5
+* Completed: 11/2021
+* Link to notes: `Here <https://github.com/coatk1/books/blob/master/business/the-millionaire-next-door.rst>`__ 
+* Link to Amazon: https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474/
