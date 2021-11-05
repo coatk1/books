@@ -10,7 +10,8 @@ Christian Living
 * ISBN: 978-0-310-35180-1
 * Rating: 5/5
 * Completed: 12/2020
-* Link to notes: `Here <https://github.com/coatk1/books/blob/master/christian-living/boundaries.rst>`__ 
+* Link to notes: `Here <https://github.com/coatk1/books/blob/master/christian-living/boundaries.rst>`__
+* Link to Amazon: https://www.amazon.com/Boundaries-Updated-Expanded-When-Control/dp/0310351804
 
 2. Boundaries with Kids
 =======================
@@ -19,6 +20,7 @@ Christian Living
 * Rating: 4.5/5
 * Completed: 01/2021
 * Link to notes: See Boundaries Updated and Expanded Edition
+* Link to Amazon: https://www.amazon.com/Boundaries-Kids-Children-Control-Their/dp/0310243157
 
 3. The 5 Love Languages The Secret to Love That Lasts
 =====================================================
@@ -27,7 +29,8 @@ Christian Living
 * ISBN: 978-0-8024-7315-8
 * Rating: 5/5
 * Completed: 01/2021
-* Link to notes: `Here <https://github.com/coatk1/books/blob/master/christian-living/love-languages.rst>`__ 
+* Link to notes: `Here <https://github.com/coatk1/books/blob/master/christian-living/love-languages.rst>`__
+* Link to Amazon: https://www.amazon.com/Love-Languages-Secret-that-Lasts/dp/080241270X
 
 4. The 5 Love Languages of Children
 ===================================
@@ -36,6 +39,7 @@ Christian Living
 * Rating: 4/5
 * Completed: 02/2021
 * Link to notes: See The 5 Love Languages The Secret to Love That Lasts
+* Link to Amazon: https://www.amazon.com/Love-Languages-Children-Secret-Effectively/dp/0802412858
 
 5. The 5 Love Languages for Men
 ===============================
@@ -52,7 +56,7 @@ Christian Living
 * Rating: 5/5
 * Completed: 07/2021
 * Link to notes: `Here <https://github.com/coatk1/books/blob/master/christian-living/marriage-on-the-rock.rst>`__
-* Link to Amazon: https://www.amazon.com/Marriage-Rock-25th-Anniversary-Comprehensive/dp/1950113205/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1631263669&sr=8-1-spons
+* Link to Amazon: https://www.amazon.com/Marriage-Rock-25th-Anniversary-Comprehensive/dp/1950113205
 
 7. Entredisciplineship
 ======================
@@ -61,4 +65,4 @@ Christian Living
 * Rating: 5/5
 * Completed: 10/2021
 * Link to notes: N/A
-* Link to Amazon: https://www.amazon.com/EntreDiscipleship-Day-Devotional-Biblical-Entrepreneurship/dp/1735435635/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
+* Link to Amazon: https://www.amazon.com/EntreDiscipleship-Day-Devotional-Biblical-Entrepreneurship/dp/1735435635/
