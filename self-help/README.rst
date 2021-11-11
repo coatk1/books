@@ -29,3 +29,12 @@ Self-Help
 * Rating: 3/5
 * Completed: ~12/2016
 * Link to notes: `Here <https://github.com/coatk1/books/blob/master/self-help/how-to-get-out-of-your-own-way.rst>`__
+
+4. No More Mr Nice Guy
+======================
+* Author(s): Robert Glover
+* ISBN: 978-0-7624-1533-5
+* Rating: 4/5
+* Completed: 11/2021
+* Link to notes: `Here <https://github.com/coatk1/books/blob/master/self-help/nmmng.rst>`__
+* Link to Amazon: https://www.amazon.com/dp/0762415339
