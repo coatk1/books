@@ -6,7 +6,7 @@ Habits
 
 Notes
 =====
-* Reference pg(s): 52, 212, 253
+* Atomic Habits pg(s): 52, 212, 253
 * https://jamesclear.com/
 * https://www.nateliason.com/notes/atomic-habits-james-clear
 * https://www.samuelthomasdavies.com/book-summaries/self-help/atomic-habits/
