@@ -6,7 +6,7 @@ The Millionaire Next Door
 
 Notes
 =====
-* The Millionaire Next Door, pg(s): 57, 203
+* The Millionaire Next Door, pg(s): 57, 203, 251
 * https://brandongaille.com/the-millionaire-next-door-summary/
 * http://www.leveluplifestyle.net/the-millionaire-next-door-summary/
 * Financial maturity: proven ability to earn a good living
