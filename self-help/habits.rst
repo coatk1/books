@@ -11,6 +11,7 @@ Notes
 * https://www.nateliason.com/notes/atomic-habits-james-clear
 * https://www.samuelthomasdavies.com/book-summaries/self-help/atomic-habits/
 * https://www.grahammann.net/book-notes/atomic-habits-james-clear
+* https://theartofliving.com/planner/start/habit-tracker/
 * Habit: repeated behavior that becomes automatic
 * Habits can be like compound interest
 * They can be either positive or negative
