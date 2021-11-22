@@ -66,3 +66,13 @@ Christian Living
 * Completed: 10/2021
 * Link to notes: N/A
 * Link to Amazon: https://www.amazon.com/EntreDiscipleship-Day-Devotional-Biblical-Entrepreneurship/dp/1735435635/
+
+8. Healing From Unmet Needs for Men
+===================================
+* Author(s): Denise Boggs
+* ISBN: N/A
+* Rating: 4/5
+* Completed: 11/2021
+* Link to notes: N/A
+* Link to Amazon: N/A
+
