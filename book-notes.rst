@@ -37,6 +37,10 @@ The Psychology of Money
 -----------------------
 * https://www.grahammann.net/book-notes/the-psychology-of-money-morgan-housel
 
+What Color Is Your Parachute? 2021
+----------------------------------
+* https://www.shortform.com/summary/what-color-is-your-parachute-summary-richard-n-bolles
+
 
 Politics
 ========
