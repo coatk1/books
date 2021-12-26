@@ -34,7 +34,7 @@ Self-Help
 ======================
 * Author(s): Robert Glover
 * ISBN: 978-0-7624-1533-5
-* Rating: 4/5
+* Rating: 3.5/5
 * Completed: 11/2021
 * Link to notes: `Here <https://github.com/coatk1/books/blob/master/self-help/nmmng.rst>`__
 * Link to Amazon: https://www.amazon.com/dp/0762415339
