@@ -7,7 +7,7 @@ Essentialism
 Notes
 =====
 * Essentialism, pg(s): 8, 22, 24, 111, 125, 229, 233, 242, 260-262
-* https://essentialism.com/21-day-challenge/
+* https://essentialism.com/course/21-day-challenge/
 * https://www.grahammann.net/book-notes/essentialism-the-disciplined-pursuit-of-less-greg-mckeown
 * Almost everything is noise, only a few things are essential.
 * Make the wisest possible investment of time and energy to operate at the highest point of contribution by doing what is essential.
