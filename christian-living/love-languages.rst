@@ -17,32 +17,32 @@ Notes
 * Primary Love Language stays consistent
 * Secondary Love Language may change depending on the current situation
 
-1. Words of Affirmation
+Words of Affirmation
+--------------------
+* Compliments
+* Encouraging Words
+* Kind Words
+* Humble Words
 
-  * Compliments
-  * Encouraging Words
-  * Kind Words
-  * Humble Words
+Quality Time
+------------
+* Focused Attention
+* Quality Conversation
+* Quality Activities
 
-2. Quality Time
+Receiving Gifts
+---------------
+* Gifts with love and thought (hand-made, nature, etc.)
+* The Gift of Self (your presence)
 
-  * Focused Attention
-  * Quality Conversation
-  * Quality Activities
+Acts of Service
+---------------
+* Doing things to help out
+* Impact
+* Initiative
+* Attitude
 
-3. Receiving Gifts
-
-  * Gifts with love and thought (hand-made, nature, etc.)
-  * The Gift of Self (your presence)
-
-4. Acts of Service
-
-  * Doing things to help out
-  * Impact
-  * Initiative
-  * Attitude
-
-5. Physical Touch
-
-  * Implicit Touching (hugs, kisses, holding hands, etc.)
-  * Explicit Touching (back rubs, sexual foreplay, etc.)
+Physical Touch
+--------------
+* Implicit Touching (hugs, kisses, holding hands, etc.)
+* Explicit Touching (back rubs, sexual foreplay, etc.)
