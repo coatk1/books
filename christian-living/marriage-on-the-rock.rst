@@ -6,198 +6,27 @@ Marriage on the Rock
 
 Notes
 =====
-* Our deepest needs:
-
-  * Acceptance: knowing you are loved and needed by others.
-  * Identity: knowing you are individually significant and special.
-  * Security: knowing you are well protected and provided for.
-  * Purpose: knowing you have a reason for living (God's plan for your life).
-
-* The Law of Priority
-
-  * Your spouse becomes number one after God, if not, legitimate jealousy can form.
-  * "Leaving" your parents means they become a lower priority.
-  * One must not allow anyone or anything to replace the priority of one's spouse.
-  * We prioritized each other during courtship, but became complacent when we start to feel secure in our relationship.
-  * The best thing for children, is for spouses to love and meet one another needs.
-  * Children will eventually grow up and leave the house while your marriage will be the thing to remain.
-  * Protect priorities treating your time and energy like money.
-
-* The Law of Pursuit
-
-  * "Cleave" is to pursue and cling zealously.
-  * Maintain the energy you once used to pursue one another during courtship, in marriage.
-  * Otherwise you delay the inevitable by pursuing your new spouse after divorce. Why not start with your current spouse?
-  * 3 steps to renew love:
-
-    * Remember when the relationship was enjoyable before you had fell off.
-    * Repent from what is keeping you from your spouse.
-    * Take action in doing what you did in the beginning.
-
-* The Law of Possession
-
-  * Marriage is a union in which all things previously owned and managed, are now jointly owned and managed.
-  * This does not mean controlling or abusing our spouse, but rather willfully surrendering each area of our life to joint ownership.
-  * Can you trust your potential spouse with **every** area of your life?
-  * We must submit (not give up) everything to the authority of Jesus. Jesus will not compete with our possessions. To give up sole ownership shows trust. So we must do the same with our spouses.
-  * True intimacy is when two people lives are intertwined that one cannot determine where one start and the other begins.
-  * What would you sacrifice for your marriage?
-
-* The Law of Purity
-
-  * God designed nakedness of marriage to include every aspect of our lives (body, soul, spirit).
-  * We are to be completely vulnerable without shame or fear.
-  * Sin creates shame, fear, and the inability to be open.
-  * The Bible is like the owner's manual for life. We trust the manufacturer and listen to the warnings.
-  * The manufacturer is telling us how to get the most out of life and how to prevent harm.
-  * Seven Steps to Purity in Marriage:
-
-    * Take responsibility for your behavior.
-    * Do not return sin for sin.
-    * Admit your faults.
-    * Forgive (unforgiveness damages you more than the offender).
-    * Speak the truth in love (allow freedom of expression).
-    * Pray for each other.
-    * Seek righteous fellowship (don't be around those who seduce you to sin).
-
 * God's Biblical roles help us have a lasting and satisfying marriage, because our spouse will meet our deepest need.
 * A man needs honor.
 * A woman needs security, through sacrifice.
 * Women and children are a reflection (or heavily influenced) of the man/men in or not in their lives.
 * The result of a wife is by the husband she serves, and the result of a husband is by the God he serves.
 * In order to be a great leader, one must be humble and serve. Your leadership will influence those who you lead.
-
-* The Dominant Husband: one who thinks he can rule those around him. Causes:
-
-  * Lack of nurturing and affection from parents.
-  * Modeling poor identity or behavior after parents or society.
-  * Lack of knowledge and confidence around women.
-  * Sin, deception, pride, selfishness.
-  * Dominant temperament or strong personality.
-
-* The Passive Husband: sensitive to others but will not lead. Causes:
-
-  * Obsessive nurturing and affection from parents.
-  * Passive men as role models.
-  * Being intimidated by women.
-  * Sin or laziness.
-  * Passive temperament or weak personality.
-
-* The Immoral Husband: addicted to porn or sexual sin. Causes:
-
-  * Rejection or lack of physical affection from parents.
-  * Being visually stimulated.
-  * Mental bondage and lust.
-  * Sin and deception.
-
-* The Distracted Husband: distracted by job, hobbies, recreation, or entertainment. Causes:
-
-  * Lack of acceptance.
-  * Greed and lack of contentment.
-  * Perverted values and priorities.
-  * Avoiding conflict or issues at home.
-
 * Assume responsibility in fixing your marriage, rather than trying to reject or get a new spouse.
 * Wives will respond to whatever their husbands does or does not do.
-* Women basic needs are:
-
-  * Safety, security, and provided for.
-  * Non-sexual affection.
-  * Open communication.
-  * Male leadership. If you lead, your wife will follow, otherwise this creates insecurity.
-
-* The Dominant Wife: one who is dependent on her husband's dependency. Causes:
-
-  * Sin nature/ rebellion.
-  * Fear.
-  * Lack of affection and affirmation from father.
-  * Dominant women as role models.
-  * Dominant temperament or strong personality.
-
-* The Enabler Wife: one who allows destructive behavior. Causes:
-
-  * Low self-esteem.
-  * Distorted view of love.
-  * Fear of rejection and being alone.
-  * Passive temperament personality.
-
-* The Distracted Wife: one who fills her life with or allows distractions. Causes:
-
-  * Distracted husband.
-  * Motherhood.
-  * Overload or too many responsibilities.
-  * Lack of boundaries and priorities in relationships.
-
-* The Emotion-Motivated Wife: one who is lead by her emotions rather than the Holy Spirit. Causes:
-
-  * Lack of faith.
-  * Lack of discipline.
-  * Deception.
-
 * Women can be both strong and submissive.
-* Men basic needs are:
-
-  * Honor him by allowing him to fail, honoring the man you want him to be and not exposing his weaknesses.
-  * Exciting, satisfying and creative sex. Understand his sex drive, do not reject him and communicate how you could satisfy him.
-  * Fellowship. Be his lover, friend, and helpmate. Share interest with one another.
-  * Create a home environment that supports him.
-
 * The righteous spouse should treat the unrighteous spouse as they would Jesus. They will either repent or become convicted.
 * Love them and confront them honestly about their behavior, in a loving way.
-* When building alone:
-
-  * Be completely humble and submitted to God.
-  * Be willing to suffer righteously and face hardships for your marriage.
-  * Pray and seek God for a plan and vision.
-  * Seek Godly counsel and support. Share details with people you trust and are spiritually mature. Don't be discouraged or influenced by the unrighteous.
-
-* Three Foundations for Permanent Success and Pleasure
-
-  * Hard Soil: the lack of knowledge will never plant the seed. Be open to learning and receiving knowledge and God's Word.
-  * Shallow Soil: the lack of commitment will never sustain the seed. Be committed to working and sacrificing for your marriage.
-  * Thorny Soil: the lack of discipline will never grow the seed. Be disciplined at prioritizing and maintaining your marriage.
-
 * Communication is the most important vehicle in a marriage.
 * Your words are powerful so watch what you say and repent of any unholy language you used.
 * Understand and accept the difference between men and women communication styles.
 * Women need open and detailed communication. Communication for women is like sex for men, turning off your words is like the stopping of sex. Women are physically modest and needs a protected/ safe environment to open up for sex.
 * Men need trust and security. Men are emotionally modest and needs a protected/ safe environment to open up to talk.
-* Five Keys for Communicating:
-
-  * Caring and Empathy.
-  * Active Listening.
-  * Giving Praise.
-  * Loving Confrontation (speak truth with love) at Proper Timing.
-  * Openness, Intimacy, and Vulnerability.
-
-* Seven Principles for Financial Success:
-
-  * Submit Ownership to God.
-  * Test Your Faith and Stewardship Through Tithing.
-  * Exercise Great Leadership by Planning a Budget and Estate Planning.
-  * Be Content and Thankful of What You Have.
-  * Be Faithful and a Proper Steward (Planning) for Financial Security.
-  * Be Free from Debt.
-  * Be Selfless and Willing to Sacrifice for Your Marriage and Family.
-
 * Parents purpose are to transition children from their care and usher them to the arms of God, and to meet their basic needs; identity, security, purpose, and acceptance.
 * They dependent on parents to meet those needs until they are young adults.
 * Children will have an understanding of God based on the parents characteristics, treatment of them, love and truth, and being involved. They see us as God when young. This will help them to accept Jesus.
 * Children will follow what we do, not what we say.
 * Parents lifestyle will impact children's development and exposure.
-* Children's Basic Needs:
-
-  * Acceptance:
-
-    * Physical Affection/ Physical Touch
-    * Verbal Affirmation/ Words of Affirmation
-    * Availability/ Quality Time
-    * Expression (freedom to express oneself)
-
-  * Identity: allow children to express themselves and to find their identities (without harm).
-  * Security: create a home environment of stability and love.
-  * Purpose: balance home responsibilities and fun activities. They should feel a sense of purpose and productivity, while still enjoying life.
-
 * Abuse: physical, emotional, or spiritual influences that are harmful and demonstrates ungodliness.
 * Discipline your children with love and consistency (following through).
 * Parents must agree on discipline and share the discipline responsibilities.
@@ -257,3 +86,197 @@ Notes
 * Proper dating is patient when introducing the children.
 * The new spouse should honor the ex-spouse and not fuel or allow negative feelings of ex-spouse/ biological parent.
 
+Needs
+-----
+
+Everyone Deepest Needs
+++++++++++++++++++++++
+* Acceptance: knowing you are loved and needed by others.
+* Identity: knowing you are individually significant and special.
+* Security: knowing you are well protected and provided for.
+* Purpose: knowing you have a reason for living (God's plan for your life).
+
+Women's Basic Needs
++++++++++++++++++++
+* Safety, security, and provided for.
+* Non-sexual affection.
+* Open communication.
+* Male leadership. If you lead, your wife will follow, otherwise this creates insecurity.
+
+Men's Basic Needs
++++++++++++++++++
+* Honor him by allowing him to fail, honoring the man you want him to be and not exposing his weaknesses.
+* Exciting, satisfying and creative sex. Understand his sex drive, do not reject him and communicate how you could satisfy him.
+* Fellowship. Be his lover, friend, and helpmate. Share interest with one another.
+* Create a home environment that supports him.
+
+Children's Basic Needs
+++++++++++++++++++++++
+* Acceptance:
+
+  * Physical Affection/ Physical Touch
+  * Verbal Affirmation/ Words of Affirmation
+  * Availability/ Quality Time
+  * Expression (freedom to express oneself)
+
+* Identity: allow children to express themselves and to find their identities (without harm).
+* Security: create a home environment of stability and love.
+* Purpose: balance home responsibilities and fun activities. They should feel a sense of purpose and productivity, while still enjoying life.
+
+The Law of Priority
+-------------------
+* Your spouse becomes number one after God, if not, legitimate jealousy can form.
+* "Leaving" your parents means they become a lower priority.
+* One must not allow anyone or anything to replace the priority of one's spouse.
+* We prioritized each other during courtship, but became complacent when we start to feel secure in our relationship.
+* The best thing for children, is for spouses to love and meet one another needs.
+* Children will eventually grow up and leave the house while your marriage will be the thing to remain.
+* Protect priorities treating your time and energy like money.
+
+The Law of Pursuit
+------------------
+* "Cleave" is to pursue and cling zealously.
+* Maintain the energy you once used to pursue one another during courtship, in marriage.
+* Otherwise you delay the inevitable by pursuing your new spouse after divorce. Why not start with your current spouse?
+* 3 steps to renew love:
+
+  * Remember when the relationship was enjoyable before you had fell off.
+  * Repent from what is keeping you from your spouse.
+  * Take action in doing what you did in the beginning.
+
+The Law of Possession
+---------------------
+* Marriage is a union in which all things previously owned and managed, are now jointly owned and managed.
+* This does not mean controlling or abusing our spouse, but rather willfully surrendering each area of our life to joint ownership.
+* Can you trust your potential spouse with **every** area of your life?
+* We must submit (not give up) everything to the authority of Jesus. Jesus will not compete with our possessions. To give up sole ownership shows trust. So we must do the same with our spouses.
+* True intimacy is when two people lives are intertwined that one cannot determine where one start and the other begins.
+* What would you sacrifice for your marriage?
+
+The Law of Purity
+-----------------
+* God designed nakedness of marriage to include every aspect of our lives (body, soul, spirit).
+* We are to be completely vulnerable without shame or fear.
+* Sin creates shame, fear, and the inability to be open.
+* The Bible is like the owner's manual for life. We trust the manufacturer and listen to the warnings.
+* The manufacturer is telling us how to get the most out of life and how to prevent harm.
+* Seven Steps to Purity in Marriage:
+
+  * Take responsibility for your behavior.
+  * Do not return sin for sin.
+  * Admit your faults.
+  * Forgive (unforgiveness damages you more than the offender).
+  * Speak the truth in love (allow freedom of expression).
+  * Pray for each other.
+  * Seek righteous fellowship (don't be around those who seduce you to sin).
+
+Types of Destructive Husbands
+-----------------------------
+
+The Dominant Husband
+++++++++++++++++++++
+* One who thinks he can rule those around him. Causes:
+
+  * Lack of nurturing and affection from parents.
+  * Modeling poor identity or behavior after parents or society.
+  * Lack of knowledge and confidence around women.
+  * Sin, deception, pride, selfishness.
+  * Dominant temperament or strong personality.
+
+The Passive Husband
++++++++++++++++++++
+* Sensitive to others but will not lead. Causes:
+
+  * Obsessive nurturing and affection from parents.
+  * Passive men as role models.
+  * Being intimidated by women.
+  * Sin or laziness.
+  * Passive temperament or weak personality.
+
+The Immoral Husband
++++++++++++++++++++
+* Addicted to porn or sexual sin. Causes:
+
+  * Rejection or lack of physical affection from parents.
+  * Being visually stimulated.
+  * Mental bondage and lust.
+  * Sin and deception.
+
+The Distracted Husband
+++++++++++++++++++++++
+* Distracted by job, hobbies, recreation, or entertainment. Causes:
+
+  * Lack of acceptance.
+  * Greed and lack of contentment.
+  * Perverted values and priorities.
+  * Avoiding conflict or issues at home.
+
+Types of Destructive Wives
+---------------------------
+
+The Dominant Wife
++++++++++++++++++
+* One who is dependent on her husband's dependency. Causes:
+
+  * Sin nature/ rebellion.
+  * Fear.
+  * Lack of affection and affirmation from father.
+  * Dominant women as role models.
+  * Dominant temperament or strong personality.
+
+The Enabler Wife
+++++++++++++++++
+* One who allows destructive behavior. Causes:
+
+  * Low self-esteem.
+  * Distorted view of love.
+  * Fear of rejection and being alone.
+  * Passive temperament personality.
+
+The Distracted Wife
++++++++++++++++++++
+* One who fills her life with or allows distractions. Causes:
+
+  * Distracted husband.
+  * Motherhood.
+  * Overload or too many responsibilities.
+  * Lack of boundaries and priorities in relationships.
+
+The Emotion-Motivated Wife
+++++++++++++++++++++++++++
+* One who is lead by her emotions rather than the Holy Spirit. Causes:
+
+  * Lack of faith.
+  * Lack of discipline.
+  * Deception.
+
+When Building Alone
+-------------------
+* Be completely humble and submitted to God.
+* Be willing to suffer righteously and face hardships for your marriage.
+* Pray and seek God for a plan and vision.
+* Seek Godly counsel and support. Share details with people you trust and are spiritually mature. Don't be discouraged or influenced by the unrighteous.
+
+Three Foundations for Permanent Success and Pleasure
+----------------------------------------------------
+* Hard Soil: the lack of knowledge will never plant the seed. Be open to learning and receiving knowledge and God's Word.
+* Shallow Soil: the lack of commitment will never sustain the seed. Be committed to working and sacrificing for your marriage.
+* Thorny Soil: the lack of discipline will never grow the seed. Be disciplined at prioritizing and maintaining your marriage.
+
+Five Keys for Communicating
+---------------------------
+* Caring and Empathy.
+* Active Listening.
+* Giving Praise.
+* Loving Confrontation (speak truth with love) at Proper Timing.
+* Openness, Intimacy, and Vulnerability.
+
+Seven Principles for Financial Success
+--------------------------------------
+* Submit Ownership to God.
+* Test Your Faith and Stewardship Through Tithing.
+* Exercise Great Leadership by Planning a Budget and Estate Planning.
+* Be Content and Thankful of What You Have.
+* Be Faithful and a Proper Steward (Planning) for Financial Security.
+* Be Free from Debt.
+* Be Selfless and Willing to Sacrifice for Your Marriage and Family.
