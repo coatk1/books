@@ -46,3 +46,12 @@ Business/ Financial
 * Completed: 11/2021
 * Link to notes: `Here <https://github.com/coatk1/books/blob/master/business/the-millionaire-next-door.rst>`__
 * Link to Amazon: https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474/
+
+6. Essentialism: The Disciplined Pursuit of Less
+================================================
+* Author(s): Greg McKeown
+* ISBN: 978-0-8041-3740-9
+* Rating: 3.5/5
+* Completed: 12/2021
+* Link to notes: `Here <https://github.com/coatk1/books/blob/master/business/essentialism.rst>`__
+* Link to Amazon: https://www.amazon.com/dp/0804137404
