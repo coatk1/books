@@ -12,6 +12,11 @@ Contagious
 * https://www.samuelthomasdavies.com/book-summaries/business/contagious
 * https://www.nateliason.com/notes/contagious-jonah-berger
 
+Designing Your Work Life
+------------------------
+* https://calvinrosser.com/notes/designing-your-life-bill-burnett-dave-evans/
+* https://goodbooksummary.com/designing-your-work-life-by-bill-burnett-book-summary-review/
+
 Extreme Ownership
 -----------------
 * https://progressninja.com/book-notes-extreme-ownership/
