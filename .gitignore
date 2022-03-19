@@ -2,7 +2,3 @@
 
 # IDE settings
 .vscode/
-
-# Command files
-*.cmd
-*.sh
