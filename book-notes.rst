@@ -83,6 +83,12 @@ Self Help
 * https://www.f5fp.com/book-summary-15-secrets-successful-people-know-about-time-management/
 * https://pocketbook4you.com/en/read/15-secrets-successful-people-know-about-time-management
 
+Feeling Good: The New Mood Therapy
+----------------------------------
+* https://www.samuelthomasdavies.com/book-summaries/self-help/feeling-good/
+* https://www.getstoryshots.com/books/feeling-good-summary/
+* https://blog.12min.com/feeling-good-pdf/
+
 Fluent Forever
 --------------
 * https://www.grahammann.net/book-notes/fluent-forever-gabriel-wyner
