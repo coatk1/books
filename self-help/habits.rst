@@ -18,17 +18,17 @@ Notes
 * Focus on systems not goals
 * Layers of behavior change:
 
-  * Outcome (results)
-  * Process (routine)
-  * Identity (beliefs)
+    * Outcome (results)
+    * Process (routine)
+    * Identity (beliefs)
 
 * Focus on who you want to become and not on what you want to achieve
 * Laws of habits (break bad/ create good):
 
-  * Cue/ Triggers (Can/cannot remember = Make it invisible/visible)
-  * Craving/ Motivation (Feel motivated/unmotivated = Make it unattractive/attractive)
-  * Response (Difficult to stop/start = Make it hard/easy)
-  * Reward (Difficult to stay inconsistent/consistent = Make it unsatisfying/satisfying)
+    * Cue/ Triggers (Can/cannot remember = Make it invisible/visible)
+    * Craving/ Motivation (Feel motivated/unmotivated = Make it unattractive/attractive)
+    * Response (Difficult to stop/start = Make it hard/easy)
+    * Reward (Difficult to stay inconsistent/consistent = Make it unsatisfying/satisfying)
 
 * OCEAN personality
 * Choose habits that will work with your talents and personality, not against it.
@@ -57,8 +57,8 @@ Craving
 * Temptation bundling = combine want habits with need habits
 * **Habit stacking + Temptation bundling**
 
-  * After [HABIT I WANT], I will [HABIT I NEED].
-  * After [HABIT I NEED], I will [HABIT I WANT].
+    * After [HABIT I WANT], I will [HABIT I NEED].
+    * After [HABIT I NEED], I will [HABIT I WANT].
 
 * We adopt habits to fit in with the culture/ environment to be accepted/praised.
 * We imitate family/friends, the tribe, and the powerful.
@@ -95,13 +95,13 @@ Reward
 * Short-term rewards should reinforce/align your identity, then identity will become the reinforcer.
 * **Habit Tracker. Should be automated.**
 
-  * They are obvious/ visual cue
-  * They are attractive/ motivating
-  * They are satisfying
+    * They are obvious/ visual cue
+    * They are attractive/ motivating
+    * They are satisfying
 
 * **Habit Stacking + Habit Tracking**:
 
-  * After [CURRENT HABIT], I will [TRACK MY HABIT].
+    * After [CURRENT HABIT], I will [TRACK MY HABIT].
 
 * **Don't break the chain.**
 * **Never miss a habit twice!**
