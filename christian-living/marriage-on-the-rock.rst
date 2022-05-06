@@ -20,71 +20,6 @@ Notes
 * Communication is the most important vehicle in a marriage.
 * Your words are powerful so watch what you say and repent of any unholy language you used.
 * Understand and accept the difference between men and women communication styles.
-* Women need open and detailed communication. Communication for women is like sex for men, turning off your words is like the stopping of sex. Women are physically modest and needs a protected/ safe environment to open up for sex.
-* Men need trust and security. Men are emotionally modest and needs a protected/ safe environment to open up to talk.
-* Parents purpose are to transition children from their care and usher them to the arms of God, and to meet their basic needs; identity, security, purpose, and acceptance.
-* They dependent on parents to meet those needs until they are young adults.
-* Children will have an understanding of God based on the parents characteristics, treatment of them, love and truth, and being involved. They see us as God when young. This will help them to accept Jesus.
-* Children will follow what we do, not what we say.
-* Parents lifestyle will impact children's development and exposure.
-* Abuse: physical, emotional, or spiritual influences that are harmful and demonstrates ungodliness.
-* Discipline your children with love and consistency (following through).
-* Parents must agree on discipline and share the discipline responsibilities.
-* God wants us to enjoy sex, it's good, He created it. He placed parameters on sex to protect us from harm.
-* Whatever practices a married couple decide on (within the parameters), here are questions to consider:
-
-  * Does this increase oneness and intimacy?
-  * Is it mutually pleasurable or or agreed upon?
-  * Is it hygienically and physically safe?
-  * Can I do it with a clear conscience before God?
-  * Is this someone I would want my children to practice in their marriage?
-
-* Pray together on your sex lives and what you'd like to accomplish.
-* Men are misinformed and deceived when it comes to sex.
-* One should be able to share their sexual needs and desires with their spouse, but the inspiration should not come from negative influences.
-* You should be selfless in wanting to satisfy your spouse before yourself.
-* Things men should know:
-
-  * Her life being satisfied and feeling safe.
-  * Talking and quality time.
-  * Be aware of her performance anxiety.
-  * Attention after sex.
-  * Implicit touching and tenderness.
-
-* Understand the sexual differences between men and women.
-* Women should seek Godly counsel if sexually abused and for sexual guilt.
-* Tips for handling in-laws:
-
-  * Honor: Grown and married children can still honor their parents while setting healthy boundaries. Parents no longer have an God-approved authority over the child's life. Show love and honor while maintaining boundaries.
-  * Separation: Married couples must have a healthy separation/ re-prioritization from their parents, to have quality time with each other and the children, in addition to building your identities. You need the space to be who God called you both to be. Problems with mother-in-laws:
-
-    * Lack Other Fulfilling Relationships.
-    * Identity is Tied to Child's (Triangling, Cross-Gender Identification).
-    * Adversarial with Child's Spouse.
-
-  * Protection: Protect your spouse and children from interference or criticism by parents. Limit exposure to those who don't support or respect your values. Ten Commandments for Grandparents (pg.269).
-  * Friendship: View parents as friends, confront them the way you would a friend, respectfully.
-
-* One must forgive their ex-spouse in order to have a healthier marriage moving forward.
-* Inner vows are dangerous to one's spiritual and emotional health. It makes us God by saying what we will or won't do (note this isn't the same as boundaries).
-* Being able to forgive (others as well as yourself) free yourself from your past.
-* Receive God's grace in order to give grace. You cannot give what you don't have.
-* The purpose of dating is to examine the character of another person and your level of compatibility.
-* Be committed to your new marriage and not assume failure.
-* When remarrying, be one. Assume all ownership and responsibility for your lives (including children).
-* You must give your children to your new spouse and/ or receive their children.
-* Be sensitive to the child's emotions.
-* Allow your spouse to have agape love for your children.
-* Know that when remarrying, you assume everything from the new spouses life, the good and the bad.
-* Family should be built around the marriage, nothing else. Make your marriage a priority.
-* Don't allow fear and emotions to drive your decisions.
-* If ex-spouse is being a negative influence to the children, continue to be a positive influence.
-* Have a healthy line of communication as well as boundaries, with the ex-spouse.
-* Have boundaries with the step-children.
-* Listen to your children, especially if there is abuse.
-* Children need to forgive the their parents for divorce.
-* Proper dating is patient when introducing the children.
-* The new spouse should honor the ex-spouse and not fuel or allow negative feelings of ex-spouse/ biological parent.
 
 Needs
 -----
@@ -114,10 +49,10 @@ Children's Basic Needs
 ++++++++++++++++++++++
 * Acceptance:
 
-  * Physical Affection/ Physical Touch
-  * Verbal Affirmation/ Words of Affirmation
-  * Availability/ Quality Time
-  * Expression (freedom to express oneself)
+    * Physical Affection/ Physical Touch
+    * Verbal Affirmation/ Words of Affirmation
+    * Availability/ Quality Time
+    * Expression (freedom to express oneself)
 
 * Identity: allow children to express themselves and to find their identities (without harm).
 * Security: create a home environment of stability and love.
@@ -140,9 +75,9 @@ The Law of Pursuit
 * Otherwise you delay the inevitable by pursuing your new spouse after divorce. Why not start with your current spouse?
 * 3 steps to renew love:
 
-  * Remember when the relationship was enjoyable before you had fell off.
-  * Repent from what is keeping you from your spouse.
-  * Take action in doing what you did in the beginning.
+    * Remember when the relationship was enjoyable before you had fell off.
+    * Repent from what is keeping you from your spouse.
+    * Take action in doing what you did in the beginning.
 
 The Law of Possession
 ---------------------
@@ -162,93 +97,77 @@ The Law of Purity
 * The manufacturer is telling us how to get the most out of life and how to prevent harm.
 * Seven Steps to Purity in Marriage:
 
-  * Take responsibility for your behavior.
-  * Do not return sin for sin.
-  * Admit your faults.
-  * Forgive (unforgiveness damages you more than the offender).
-  * Speak the truth in love (allow freedom of expression).
-  * Pray for each other.
-  * Seek righteous fellowship (don't be around those who seduce you to sin).
+    * Take responsibility for your behavior.
+    * Do not return sin for sin.
+    * Admit your faults.
+    * Forgive (unforgiveness damages you more than the offender).
+    * Speak the truth in love (allow freedom of expression).
+    * Pray for each other.
+    * Seek righteous fellowship (don't be around those who seduce you to sin).
 
 Types of Destructive Husbands
 -----------------------------
 
-The Dominant Husband
-++++++++++++++++++++
-* One who thinks he can rule those around him. Causes:
+Cause of the Dominant Husband (One who thinks he can rule those around him)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+* Lack of nurturing and affection from parents.
+* Modeling poor identity or behavior after parents or society.
+* Lack of knowledge and confidence around women.
+* Sin, deception, pride, selfishness.
+* Dominant temperament or strong personality.
 
-  * Lack of nurturing and affection from parents.
-  * Modeling poor identity or behavior after parents or society.
-  * Lack of knowledge and confidence around women.
-  * Sin, deception, pride, selfishness.
-  * Dominant temperament or strong personality.
+Cause of the Passive Husband (Sensitive to others but will not lead)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+* Obsessive nurturing and affection from parents.
+* Passive men as role models.
+* Being intimidated by women.
+* Sin or laziness.
+* Passive temperament or weak personality.
 
-The Passive Husband
-+++++++++++++++++++
-* Sensitive to others but will not lead. Causes:
+Cause of the Immoral Husband (Addicted to porn or sexual sin)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+* Rejection or lack of physical affection from parents.
+* Being visually stimulated.
+* Mental bondage and lust.
+* Sin and deception.
 
-  * Obsessive nurturing and affection from parents.
-  * Passive men as role models.
-  * Being intimidated by women.
-  * Sin or laziness.
-  * Passive temperament or weak personality.
-
-The Immoral Husband
-+++++++++++++++++++
-* Addicted to porn or sexual sin. Causes:
-
-  * Rejection or lack of physical affection from parents.
-  * Being visually stimulated.
-  * Mental bondage and lust.
-  * Sin and deception.
-
-The Distracted Husband
-++++++++++++++++++++++
-* Distracted by job, hobbies, recreation, or entertainment. Causes:
-
-  * Lack of acceptance.
-  * Greed and lack of contentment.
-  * Perverted values and priorities.
-  * Avoiding conflict or issues at home.
+Cause of the Distracted Husband (Distracted by job, hobbies, recreation, or entertainment)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+* Lack of acceptance.
+* Greed and lack of contentment.
+* Perverted values and priorities.
+* Avoiding conflict or issues at home.
 
 Types of Destructive Wives
 ---------------------------
 
-The Dominant Wife
-+++++++++++++++++
-* One who is dependent on her husband's dependency. Causes:
+Cause of the Dominant Wife (One who is dependent on her husband's dependency)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+* Sin nature/ rebellion.
+* Fear.
+* Lack of affection and affirmation from father.
+* Dominant women as role models.
+* Dominant temperament or strong personality.
 
-  * Sin nature/ rebellion.
-  * Fear.
-  * Lack of affection and affirmation from father.
-  * Dominant women as role models.
-  * Dominant temperament or strong personality.
+Cause of the Enabler Wife (One who allows destructive behavior)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+* Low self-esteem.
+* Distorted view of love.
+* Fear of rejection and being alone.
+* Passive temperament personality.
 
-The Enabler Wife
-++++++++++++++++
-* One who allows destructive behavior. Causes:
+Cause of the Distracted Wife (One who fills her life with or allows distractions)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+* Distracted husband.
+* Motherhood.
+* Overload or too many responsibilities.
+* Lack of boundaries and priorities in relationships.
 
-  * Low self-esteem.
-  * Distorted view of love.
-  * Fear of rejection and being alone.
-  * Passive temperament personality.
-
-The Distracted Wife
-+++++++++++++++++++
-* One who fills her life with or allows distractions. Causes:
-
-  * Distracted husband.
-  * Motherhood.
-  * Overload or too many responsibilities.
-  * Lack of boundaries and priorities in relationships.
-
-The Emotion-Motivated Wife
-++++++++++++++++++++++++++
-* One who is lead by her emotions rather than the Holy Spirit. Causes:
-
-  * Lack of faith.
-  * Lack of discipline.
-  * Deception.
+Cause of the Emotion-Motivated Wife (One who is lead by her emotions rather than the Holy Spirit)
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+* Lack of faith.
+* Lack of discipline.
+* Deception.
 
 When Building Alone
 -------------------
@@ -280,3 +199,77 @@ Seven Principles for Financial Success
 * Be Faithful and a Proper Steward (Planning) for Financial Security.
 * Be Free from Debt.
 * Be Selfless and Willing to Sacrifice for Your Marriage and Family.
+
+Sex
+---
+* Women need open and detailed communication. Communication for women is like sex for men, turning off your words is like the stopping of sex. Women are physically modest and needs a protected/ safe environment to open up for sex.
+* Men need trust and security. Men are emotionally modest and needs a protected/ safe environment to open up to talk.
+* God wants us to enjoy sex, it's good, He created it. He placed parameters on sex to protect us from harm.
+* Whatever practices a married couple decide on (within the parameters), here are questions to consider:
+
+    * Does this increase oneness and intimacy?
+    * Is it mutually pleasurable or or agreed upon?
+    * Is it hygienically and physically safe?
+    * Can I do it with a clear conscience before God?
+    * Is this someone I would want my children to practice in their marriage?
+
+* Pray together on your sex lives and what you'd like to accomplish.
+* Men are misinformed and deceived when it comes to sex.
+* One should be able to share their sexual needs and desires with their spouse, but the inspiration should not come from negative influences.
+* You should be selfless in wanting to satisfy your spouse before yourself.
+* Things men should know:
+
+    * Her life being satisfied and feeling safe.
+    * Talking and quality time.
+    * Be aware of her performance anxiety.
+    * Attention after sex.
+    * Implicit touching and tenderness.
+
+* Understand the sexual differences between men and women.
+* Women should seek Godly counsel if sexually abused and for sexual guilt.
+
+Parents
+-------
+* Parents purpose are to transition children from their care and usher them to the arms of God, and to meet their basic needs; identity, security, purpose, and acceptance.
+* They dependent on parents to meet those needs until they are young adults.
+* Children will have an understanding of God based on the parents characteristics, treatment of them, love and truth, and being involved. They see us as God when young. This will help them to accept Jesus.
+* Children will follow what we do, not what we say.
+* Parents lifestyle will impact children's development and exposure.
+* Abuse: physical, emotional, or spiritual influences that are harmful and demonstrates ungodliness.
+* Discipline your children with love and consistency (following through).
+* Parents must agree on discipline and share the discipline responsibilities.
+
+Tips for handling in-laws
++++++++++++++++++++++++++
+* Honor: Grown and married children can still honor their parents while setting healthy boundaries. Parents no longer have an God-approved authority over the child's life. Show love and honor while maintaining boundaries.
+* Separation: Married couples must have a healthy separation/ re-prioritization from their parents, to have quality time with each other and the children, in addition to building your identities. You need the space to be who God called you both to be. Problems with mother-in-laws:
+
+    * Lack Other Fulfilling Relationships.
+    * Identity is Tied to Child's (Triangling, Cross-Gender Identification).
+    * Adversarial with Child's Spouse.
+
+* Protection: Protect your spouse and children from interference or criticism by parents. Limit exposure to those who don't support or respect your values. Ten Commandments for Grandparents (pg.269).
+* Friendship: View parents as friends, confront them the way you would a friend, respectfully.
+
+Ex-Spouse
+---------
+* One must forgive their ex-spouse in order to have a healthier marriage moving forward.
+* Inner vows are dangerous to one's spiritual and emotional health. It makes us God by saying what we will or won't do (note this isn't the same as boundaries).
+* Being able to forgive (others as well as yourself) free yourself from your past.
+* Receive God's grace in order to give grace. You cannot give what you don't have.
+* The purpose of dating is to examine the character of another person and your level of compatibility.
+* Be committed to your new marriage and not assume failure.
+* When remarrying, be one. Assume all ownership and responsibility for your lives (including children).
+* You must give your children to your new spouse and/ or receive their children.
+* Be sensitive to the child's emotions.
+* Allow your spouse to have agape love for your children.
+* Know that when remarrying, you assume everything from the new spouses life, the good and the bad.
+* Family should be built around the marriage, nothing else. Make your marriage a priority.
+* Don't allow fear and emotions to drive your decisions.
+* If ex-spouse is being a negative influence to the children, continue to be a positive influence.
+* Have a healthy line of communication as well as boundaries, with the ex-spouse.
+* Have boundaries with the step-children.
+* Listen to your children, especially if there is abuse.
+* Children need to forgive the their parents for divorce.
+* Proper dating is patient when introducing the children.
+* The new spouse should honor the ex-spouse and not fuel or allow negative feelings of ex-spouse/ biological parent.
