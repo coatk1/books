@@ -14,8 +14,8 @@ Notes
 * Mutually agreed standards for evaluating solutions
 * Thinking Fast and Slow
 
-  * System 1: our mind is fast, instinctive and emotional. Influences System 2. Reacts to a question.
-  * System 2: our mind is slow, deliberate, and logical. Guided by System 1. Respond to a question.
+    * System 1: our mind is fast, instinctive and emotional. Influences System 2. Reacts to a question.
+    * System 2: our mind is slow, deliberate, and logical. Guided by System 1. Respond to a question.
 
 * Negotiation = Conversation + Rapport
 * Mirror + Label = Rapport
@@ -26,10 +26,10 @@ Summary
 -------
 * Build rapport with empathy
 
-  * Mirror (with calm voice)
-  * Label (Identify emotions and deepest need. Positive reinforce and negative diffuses.) and Accusation Audit (if necessary)
-  * Summarize (Paraphrase + Label)
-  * Discover Black Swans
+    * Mirror (with calm voice)
+    * Label (Identify emotions and deepest need. Positive reinforce and negative diffuses.) and Accusation Audit (if necessary)
+    * Summarize (Paraphrase + Label)
+    * Discover Black Swans
 
 * Asking questions (no-oriented and calibrated What/How). Give illusion of control by asking for help and get confirmation for implementation.
 * Bargain (framing/ loss aversion, have an anchor or range, use precise/ odd numbers, and non-monetary items)
@@ -42,18 +42,18 @@ Isopraxism (Mirroring)
 * **Slow down and listen.**
 * Your voice/tone is the most powerful tool in communication
 
-  * **Late-night DJ voice**: downward, calm, slow voice. Shows authority, trustworthiness, and certainty. High tones show uncertainty.
-  * **Playful voice**: the easygoing voice. Shows positive and encouraging attitude. Smile, positive mindset yields a positive response from others.
-  * Assertive voice: creates push-back.
+    * **Late-night DJ voice**: downward, calm, slow voice. Shows authority, trustworthiness, and certainty. High tones show uncertainty.
+    * **Playful voice**: the easygoing voice. Shows positive and encouraging attitude. Smile, positive mindset yields a positive response from others.
+    * Assertive voice: creates push-back.
 
 * We fear differences and embrace similarities (which builds bonds and trust).
 * **Repeat last 3 words or what was just said. Be silent, so the other person can elaborate.**
 * Steps:
 
-  * Calm or playful voice
-  * Say I'm sorry...
-  * Mirror
-  * Be silent
+    * Calm or playful voice
+    * Say I'm sorry...
+    * Mirror
+    * Be silent
 
 Labeling
 --------
@@ -63,8 +63,8 @@ Labeling
 * **Tactical Empathy: understand the feelings and mindset of your counterpart, but also hearing what is behind those feelings.**
 * **Labeling: validating someone's emotions by acknowledging it. This helps to reduce fear in the amygdala.**
 
-  * Label negative emotions defuses them. It clears the air and both parties can be in agreement.
-  * Label positive emotions reinforces them.
+    * Label negative emotions defuses them. It clears the air and both parties can be in agreement.
+    * Label positive emotions reinforces them.
 
 * Words, music (tone), and dance (body language) says a lot about how a person is feeling.
 * Use the phrases "It seems/sounds/looks like..."
@@ -82,19 +82,19 @@ Beware Yes, Master No
 * **No doesn't mean rejection.  It could mean the counterpart isn't ready, comfortable, able to understand, etc. Can help by labeling their concerns.**
 * **Types of Yes:**
 
-  * Counterfeit: when someone plans to say no but feels saying yes will help them escape.
-  * Confirmation: simple affirmation with no promise of action.
-  * Commitment: true agreement that leads to action.
+    * Counterfeit: when someone plans to say no but feels saying yes will help them escape.
+    * Confirmation: simple affirmation with no promise of action.
+    * Commitment: true agreement that leads to action.
 
 * **Guide your counterpart to think that the solution you want is their own idea. Let go of your ego or trying to persuade them.**
 * **Ask questions that prompt an "No" answer.**
 * Bad negotiators ask questions to prompt for a "Yes".
 * Saying no can:
 
-  * Open up other opportunities.
-  * Allow real issues to be discussed.
-  * Protects people from making incorrect decisions.
-  * Slow things down.
+    * Open up other opportunities.
+    * Allow real issues to be discussed.
+    * Protects people from making incorrect decisions.
+    * Slow things down.
 
 * Every "No" gets me closer to a "Yes" - Mark Cuban.
 * **Yes is the final goal but get your counterpart to say No before saying Yes.**
@@ -104,22 +104,22 @@ Trigger Words
 -------------
 * Behavioral Change Stairway Model (BCSM)
 
-  * Active Listening
-  * Empathy
-  * Rapport
-  * Influence
-  * Behavioral Change
+    * Active Listening
+    * Empathy
+    * Rapport
+    * Influence
+    * Behavioral Change
 
 * **Unconditional positive regard: accept someone as they truly are. When counterpart feels accepted, they are more likely to perform constructive behavior.**
 * **Use a summary to get a "That's right" response. This helps the counterpart to open up, acknowledge what you said is correct and allows them to put their guard down and build trust.**
 * Active listening:
 
-  * Effective Pauses: being silent.
-  * Minimal Encouragers: simple phrases that you are paying full attention.
-  * Mirroring: repeat what was said.
-  * Labeling: give feelings a name. (Identify)
-  * Paraphrase: repeat back in your own words. (Re-articulate)
-  * Summarize = paraphrasing + labeling (Emotionally Affirm)
+    * Effective Pauses: being silent.
+    * Minimal Encouragers: simple phrases that you are paying full attention.
+    * Mirroring: repeat what was said.
+    * Labeling: give feelings a name. (Identify)
+    * Paraphrase: repeat back in your own words. (Re-articulate)
+    * Summarize = paraphrasing + labeling (Emotionally Affirm)
 
 * "You're Right" is synonymous to a Counterfeit Yes. 
 
@@ -136,20 +136,20 @@ Bending Reality
 * People place a value on fairness.
 * **Use of fairness:**
 
-  * Defensive (Just want fairness) -> Get understanding/ clarity
-  * Nefarious (Assuming what you have is fair) -> Respond with mirror and label
-  * Honesty (Inform others you want to treat them fair)
+    * Defensive (Just want fairness) -> Get understanding/ clarity
+    * Nefarious (Assuming what you have is fair) -> Respond with mirror and label
+    * Honesty (Inform others you want to treat them fair)
 
 * **Framing Effect: people respond differently to the same choice depending on how it is framed. Know the emotional drivers behind someone's values.**
 * **Our perspective/ vantage point can determine our value placed on things.**
 * **Prospect Theory: choosing options that involve risk, based on perceived gains. People are drawn to surety over probability (Certainty Effect). Picks sure gain.**
 
-  * Anchor their emotions (show empathy and use accusation audit to prep them for a loss)
-  * Let your counterpart go first (so you won't miss out on monetary opportunities)
-  * Establish a range (to not give a direct answer but to force your counterpart to give the lower range)
-  * Pivot to non-monetary terms (things important to you and not your counterpart, and vice versa)
-  * Use Odd Numbers (seems though out and less likely to be negotiated off)
-  * Surprise with a gift (people feel obligated to repay you)
+    * Anchor their emotions (show empathy and use accusation audit to prep them for a loss)
+    * Let your counterpart go first (so you won't miss out on monetary opportunities)
+    * Establish a range (to not give a direct answer but to force your counterpart to give the lower range)
+    * Pivot to non-monetary terms (things important to you and not your counterpart, and vice versa)
+    * Use Odd Numbers (seems though out and less likely to be negotiated off)
+    * Surprise with a gift (people feel obligated to repay you)
 
 * **Loss Aversion: people take greater risks to avoid losses, instead of achieving a gain. Avoids sure loss.**
 * **When negotiating, it's just as impactful to show what your counterpart has to lose as well as what they have to gain.**
@@ -176,26 +176,26 @@ Guarantee Execution
 * Let someone else have your way. - Chris Voss
 * Let them define success
 
-  * How we know we're on track?
-  * How we address things if we're off track?
+    * How we know we're on track?
+    * How we address things if we're off track?
 
 * Summarize until you get "That's right". Beware of "Your right" as they don't believe the solution is theirs. "I'll try" means they plan to fail.
 * **Consider those not at the table, the can have influence on negotiation.**
 
-  * It takes one person to screw up the deal.
+    * It takes one person to screw up the deal.
 
 * **7-38-55**
 
-  * 7%: based on words
-  * 38%: based on tone
-  * 55%: based on body language
+    * 7%: based on words
+    * 38%: based on tone
+    * 55%: based on body language
 
 * Use labels to spot incongruousness.
-* **Rule of 3: get someone to agree 3 times.**
+* **Rule of Three: get someone to agree three times.**
 
-  * Agreement
-  * Label or summarize to get "That's right"
-  * How or What questions about implementation and success
+    * Agreement
+    * Label or summarize to get "That's right"
+    * How or What questions about implementation and success
 
 * **People who lie use more words, pronouns, and care more about people believing them.**
 * **More important people,  speak in 3rd person.**
@@ -208,9 +208,9 @@ Bargain Hard
 ------------
 * **3 Types:**
 
-  * Analyst: don't ask a lot of questions, use data to disagree, be upfront with issues, use labels.
-  * Accommodator: use calibrated questions for implementation and execution.
-  * Assertive: use labels, mirror, summaries, and calibrated questions.
+    * Analyst: don't ask a lot of questions, use data to disagree, be upfront with issues, use labels.
+    * Accommodator: use calibrated questions for implementation and execution.
+    * Assertive: use labels, mirror, summaries, and calibrated questions.
 
 * Black Swan Rule: Don't treat others they way you want to be treated, treat them the way they need to be treated.
 * **Deflect anchors with calibrated questions and use non-monetary terms.**
@@ -219,12 +219,12 @@ Bargain Hard
 * **Set boundaries by stepping back, until issue is resolved.**
 * **Ackerman Model:**
 
-  * Set target/ goal price
-  * Set first offer at 65% of target price = extreme anchor
-  * Calculate decreasing increments (85, 95, 100) = defined offers
-  * Use empathy and different ways of saying No before counter = calibrated questions
-  * Final number should be precise and non-round = odd numbers
-  * Add non-monetary item they don't want
+    * Set target/ goal price
+    * Set first offer at 65% of target price = extreme anchor
+    * Calculate decreasing increments (85, 95, 100) = defined offers
+    * Use empathy and different ways of saying No before counter = calibrated questions
+    * Final number should be precise and non-round = odd numbers
+    * Add non-monetary item they don't want
 
 * **Be prepared. You fall to your highest level of preparation.**
 
@@ -235,34 +235,34 @@ Black Swan
 * Leverage: ability to inflict loss and withhold gain. What do your counterpart want to gain and what do they fear.
 * Leverage Inputs:
 
-  * Time
-  * Necessity
-  * Competition
+    * Time
+    * Necessity
+    * Competition
 
 * **Those with more to lose or afraid of loss have less leverage.**
 
-  * Positive: ability to give someone what they want.
-  * Negative: ability to hurt someone.
-  * Normative: ability to use their norms and standards to advance your position.
+    * Positive: ability to give someone what they want.
+    * Negative: ability to hurt someone.
+    * Normative: ability to use their norms and standards to advance your position.
 
 * **Try to understand their religion: their reason for being.**
 
-  * Review everything you hear.
-  * Use backup listeners to listen between the lines, to hear things you will miss.
+    * Review everything you hear.
+    * Use backup listeners to listen between the lines, to hear things you will miss.
 
 * Paradox of Power: the harder you push, the more you will meet resistance
 * **Similarity Principle: we trust people who are similar to us.**
 * Express passion for your counterpart's goals and for their ability to achieve them.
 * **Don't assume your counterpart is crazy, that is often the time to discover black swans. Avoid common mistakes:**
 
-  * Bad Information: not having all or correct information.
-  * Constrained: not able to do something but don't want to reveal it.
-  * Hidden Desires: having other motives.
+    * Bad Information: not having all or correct information.
+    * Constrained: not able to do something but don't want to reveal it.
+    * Hidden Desires: having other motives.
 
 * **Discover Black Swans**
 
-  * Get Face Time: get to see your counterpart in person, to get more personal and see nonverbal communication.
-  * Observe Unguarded Moments: people are more relaxed before and after formal meetings. Look out for how they respond to disruptions.
+    * Get Face Time: get to see your counterpart in person, to get more personal and see nonverbal communication.
+    * Observe Unguarded Moments: people are more relaxed before and after formal meetings. Look out for how they respond to disruptions.
 
 * Get over fear of conflict, especially from within the tribe or to be liked. Navigate it with empathy.
 * Goal is to find the best possible deal and uncover value, NOT to strong-arm or humiliate your counterpart.
