@@ -200,8 +200,8 @@ Seven Principles for Financial Success
 * Be Free from Debt.
 * Be Selfless and Willing to Sacrifice for Your Marriage and Family.
 
-Sex
----
+Sexual Pleasure
+---------------
 * Women need open and detailed communication. Communication for women is like sex for men, turning off your words is like the stopping of sex. Women are physically modest and needs a protected/ safe environment to open up for sex.
 * Men need trust and security. Men are emotionally modest and needs a protected/ safe environment to open up to talk.
 * God wants us to enjoy sex, it's good, He created it. He placed parameters on sex to protect us from harm.
@@ -228,8 +228,8 @@ Sex
 * Understand the sexual differences between men and women.
 * Women should seek Godly counsel if sexually abused and for sexual guilt.
 
-Parents
--------
+Parenting
+---------
 * Parents purpose are to transition children from their care and usher them to the arms of God, and to meet their basic needs; identity, security, purpose, and acceptance.
 * They dependent on parents to meet those needs until they are young adults.
 * Children will have an understanding of God based on the parents characteristics, treatment of them, love and truth, and being involved. They see us as God when young. This will help them to accept Jesus.
@@ -251,8 +251,8 @@ Tips for handling in-laws
 * Protection: Protect your spouse and children from interference or criticism by parents. Limit exposure to those who don't support or respect your values. Ten Commandments for Grandparents (pg.269).
 * Friendship: View parents as friends, confront them the way you would a friend, respectfully.
 
-Ex-Spouse
----------
+Remarriage and Blended Families
+-------------------------------
 * One must forgive their ex-spouse in order to have a healthier marriage moving forward.
 * Inner vows are dangerous to one's spiritual and emotional health. It makes us God by saying what we will or won't do (note this isn't the same as boundaries).
 * Being able to forgive (others as well as yourself) free yourself from your past.
