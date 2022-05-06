@@ -10,9 +10,9 @@ Notes
 * https://www.samuelthomasdavies.com/book-summaries/self-help/the-5-love-languages/
 * Discover love language by:
 
-  * How you express your love to others
-  * What do you most often complain about/ what hurts the most
-  * What do you request most often
+    * How you express your love to others
+    * What do you most often complain about/ what hurts the most
+    * What do you request most often
 
 * Primary Love Language stays consistent
 * Secondary Love Language may change depending on the current situation
