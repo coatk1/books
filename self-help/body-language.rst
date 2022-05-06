@@ -32,33 +32,34 @@ Limbic Brain
 * Neocortex is able to deceive
 * Limbic Responses
 
-  * **Freeze**: stay in place and avoid detection. Movement attracts attention. Can also diminish exposure by turtle effect.
-  * **Flight**: escape, create distance, block, or lean/turn away from undesirable things. Tells you the person is uncomfortable or unhappy.
-  * **Fight**: we turn fear into aggression. Verbal altercation is a modern way of fighting. We can be aggressive with our body language. Fighting affects our ability to think, due to heighten emotions.
+    * **Freeze**: stay in place and avoid detection. Movement attracts attention. Can also diminish exposure by turtle effect.
+    * **Flight**: escape, create distance, block, or lean/turn away from undesirable things. Tells you the person is uncomfortable or unhappy.
+    * **Fight**: we turn fear into aggression. Verbal altercation is a modern way of fighting. We can be aggressive with our body language. Fighting affects our ability to think, due to heighten emotions.
 
 * Our brain registers positive and negative experiences, so we can embrace or avoid those experiences again.
 * Comfort = high confidence
 * Discomfort = low confidence
 * **Pacifiers signals discomfort. Used to calm us down.**
 * Doesn't mean someone is lying, it means something made them uncomfortable.
-* Types of Pacifiers
 
-  * Face (nervous, irritated, concerned, stressed)
-  * Head
-  * Neck (insecure, uncomfortable, fearful, stressed, threatened, anxious)
-  * Shoulder
-  * Arm
-  * Hand
-  * Leg (stressed, nervous, discomfort, anxiety)
+Types of Pacifiers
+++++++++++++++++++
+* Face (nervous, irritated, concerned, stressed)
+* Head
+* Neck (insecure, uncomfortable, fearful, stressed, threatened, anxious)
+* Shoulder
+* Arm
+* Hand
+* Leg (stressed, nervous, discomfort, anxiety)
 
-* Read pacifiers
-
-  * Establish baseline for the individual.
-  * What event caused behavior?
-  * Linking pacifying behavior to a stressor can help you better understand someone's emotions.
-  * Say or do something to trigger pacifier.
-  * Note which body is being pacified.
-  * Greater stress = greater pacifying
+Read pacifiers
+++++++++++++++
+* Establish baseline for the individual.
+* What event caused behavior?
+* Linking pacifying behavior to a stressor can help you better understand someone's emotions.
+* Say or do something to trigger pacifier.
+* Note which body is being pacified.
+* Greater stress = greater pacifying
 
 Legs
 ----
@@ -188,24 +189,24 @@ Deception
 * When uncomfortable, the limbic brain takes over.
 * Look for pacifying non-verbals:
 
-  * Get a clear view and have nothing blocking you
-  * Expect normal pacifying behaviors
-  * Expect initial nervousness
-  * Get them to relax first before asking questions
-  * Establish a baseline of pacifying behavior
-  * Look for increased use of pacifiers and what caused it
-  * Ask, pause, and observe
-  * Keep them focused
-  * Chatter is not truth, truth is reveal by verification of facts
-  * Stress coming in and pacifying going out
-  * Isolate the cause of stress
-  * Pacifiers say a lot
+    * Get a clear view and have nothing blocking you
+    * Expect normal pacifying behaviors
+    * Expect initial nervousness
+    * Get them to relax first before asking questions
+    * Establish a baseline of pacifying behavior
+    * Look for increased use of pacifiers and what caused it
+    * Ask, pause, and observe
+    * Keep them focused
+    * Chatter is not truth, truth is reveal by verification of facts
+    * Stress coming in and pacifying going out
+    * Isolate the cause of stress
+    * Pacifiers say a lot
 
 * Look for synchrony between:
 
-  * Verbals and non-verbals
-  * Verbals and events
-  * Events, time, and place
+    * Verbals and non-verbals
+    * Verbals and events
+    * Events, time, and place
 
 * Look for consistent verbal and nonverbal emphasis. Liars spend more time thinking of what to say and how it is being received.
 * Lack of movement and emphasis indicates possible deception.
