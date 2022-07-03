@@ -93,6 +93,13 @@ Fluent Forever
 --------------
 * https://www.grahammann.net/book-notes/fluent-forever-gabriel-wyner
 
+How to Read a Book
+------------------
+* https://fs.blog/how-to-read-a-book/
+* https://mentalpivot.com/book-notes-how-to-read-a-book-by-mortimer-j-adler-and-charles-van-doren/
+* https://www.sloww.co/how-to-read-a-book/
+* https://theartofliving.com/how-to-read-a-book-summary/
+
 The 5 AM Club
 -------------
 * https://ignorelimits.com/the-5am-club-book-summary/
