@@ -31,6 +31,7 @@ cd ../
 cd %cl%/
 pandoc README.rst -s -o %custom%/%cl%/README.docx
 pandoc boundaries.rst -s -o %custom%/%cl%/boundaries.docx
+pandoc living-by-the-book.rst -s -o %custom%/%cl%/living-by-the-book.docx
 pandoc love-languages.rst -s -o %custom%/%cl%/love-languages.docx
 pandoc marriage-on-the-rock.rst -s -o %custom%/%cl%/marriage-on-the-rock.docx
 cd ../
