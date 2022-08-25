@@ -56,3 +56,5 @@ cd ../
 
 pandoc README.rst -s -o %custom%/README.docx
 pandoc book-notes.rst -s -o %custom%/book-notes.docx
+
+pause 5
