@@ -354,16 +354,16 @@ Five Keys to Interpretation
 
 Ten Steps to Figuring Out the Figurative
 ----------------------------------------
-1. Use the literal sense unless there is some good reason no to.
-2. Use the figurative sense when the passage tells you to do so.
-3. Use the figurative sense if a literal meaning is impossible or absurd.
-4. Use the figurative sense if a literal meaning would involve something immoral.
-5. Use the figurative sense if the expression is an obvious figure of speech.
-6. Use the figurative sense if a literal interpretation goes contrary to the context and scope of the passage.
-7. Use the figurative sense if a literal interpretation goes contrary to the general character and style of the book (i.e. prophetic and poetic).
-8. Use the figurative sense if a literal interpretation goes contrary to the plan and purpose of the author.
-9. Use the figurative sense if a literal interpretation involves a contradiction of other Scripture.
-10. Use the figurative sense if a literal interpretation would involve a contradiction in doctrine.
+1. Use the literal sense **unless there is some good reason no to**.
+2. Use the figurative sense **when the passage tells you to do so**.
+3. Use the figurative sense if a **literal meaning is impossible or absurd**.
+4. Use the figurative sense if a **literal meaning would involve something immoral**.
+5. Use the figurative sense if the **expression is an obvious figure of speech**.
+6. Use the figurative sense if a **literal interpretation goes contrary to the context and scope of the passage**.
+7. Use the figurative sense if a **literal interpretation goes contrary to the general character and style of the book (i.e. prophetic and poetic)**.
+8. Use the figurative sense if a **literal interpretation goes contrary to the plan and purpose of the author**.
+9. Use the figurative sense if a **literal interpretation involves a contradiction of other Scripture**.
+10. Use the figurative sense if a **literal interpretation would involve a contradiction in doctrine**.
 
 Figures of Speech
 +++++++++++++++++
