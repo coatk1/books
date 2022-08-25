@@ -15,10 +15,10 @@ Notes
     * Spiritual Maturity: this comes from spending time or having constant use of scripture to distinguish good from evil (Heb. 5:11-14).
     * Effectiveness: all scripture is inspired by God and are profitable for (2 Tim. 3:16-17):
 
-        * Teaching: this helps structure the way we think.
-        * Rebuke: informs us on what sin is.
-        * Correction: a dynamic relationship with the word where we clean sin out of our lives.
-        * Righteous Living: so we can be available for and to be used by God. 
+        * **Teaching**: this helps structure the way we think.
+        * **Rebuke**: informs us on what sin is.
+        * **Correction**: a dynamic relationship with the word where we clean sin out of our lives.
+        * **Righteous Living**: so we can be available for and to be used by God. 
 
 * All scripture is inspired (or breathed out) by God. Breath can also mean Spirit, which connects to the Holy Spirit.
 * The human authors were moved by the Holy Spirit, just as a ship is moved by the wind.
@@ -102,12 +102,12 @@ Ten Strategies to First-Rate Reading
     * See *The Laws of Structure*.
     * Grammatical Structure: what is the subject, main verb, and object (SVO) in the sentence. Modifiers, prepositional phrases, connectives, clauses.
 
-        * Verbs: words that tell us who is doing what.
-        * Subject (Doing): who/ what is doing the acting/ action. 
-        * Object (Receiving): who/ what is being acted upon.
-        * Modifiers: descriptive words such as adjectives and adverbs.
-        * Prepositional Phrases: tells us where the action is taking place. (e.g. in, on, upon, through, to, etc.)
-        * Connectives: *but*, *and*, and *therefore* (typically has context for argument) are some of the most powerful words in the Bible.
+        * **Verbs**: words that tell us who is doing what.
+        * **Subject (Doing)**: who/ what is doing the acting/ action. 
+        * **Object (Receiving)**: who/ what is being acted upon.
+        * **Modifiers**: descriptive words such as adjectives and adverbs.
+        * **Prepositional Phrases**: tells us where the action is taking place. (e.g. in, on, upon, through, to, etc.)
+        * **Connectives**: *but*, *and*, and *therefore* (typically has context for argument) are some of the most powerful words in the Bible.
 
     * Literary Structure/ Form (pairs): questions and answers, climax and resolution, cause and effect. What genre is this book written in. See *Narrative in Literary Sub-Genres of the Bible*.
 
@@ -218,11 +218,11 @@ Interpretation (What does it mean?)
 * The quality of your interpretation will always depend on the quality of your observation.
 * Understanding the types of barriers:
 
-    * Geographical barriers: not understanding a geography's history and it's significance. Use atlases.
-    * Language barriers: understand the meaning of the root words. Use Bible dictionaries, interlinear texts, and commentaries.
-    * Culture barriers: reconstruct cultural context (i.e. communication, transportation, trade, agriculture, occupations, religion, perceptions of time, etc.). Use Bible handbooks.
-    * Literary barriers: understanding the different genres so you know how to approach each book. Use commentaries.
-    * Communication barriers: you won't understand everything nor answer every question. We are finite while God is infinite. The best thing is to understand all the essentials for eternal salvation and daily living.
+    * **Geographical barriers**: not understanding a geography's history and it's significance. Use atlases.
+    * **Language barriers**: understand the meaning of the root words. Use Bible dictionaries, interlinear texts, and commentaries.
+    * **Culture barriers**: reconstruct cultural context (i.e. communication, transportation, trade, agriculture, occupations, religion, perceptions of time, etc.). Use Bible handbooks.
+    * **Literary barriers**: understanding the different genres so you know how to approach each book. Use commentaries.
+    * **Communication barriers**: you won't understand everything nor answer every question. We are finite while God is infinite. The best thing is to understand all the essentials for eternal salvation and daily living.
 
 * Hazards to Avoid:
 
@@ -459,12 +459,12 @@ Application (How does it work? Not if it works.)
 
 Four Steps of Application
 -------------------------
-1. Know the text (observation + interpretation) and know yourself (your spiritual assets and spiritual liabilities).
+1. **Know the text (observation + interpretation) and know yourself (your spiritual assets and spiritual liabilities).**
 
     * Knowing your assets will develop your confidence, things God has done for you.
     * Knowing your liabilities will develop your faith, things God need to develop in you.
 
-2. Is Christ the center of all areas of your life?
+2. **Is Christ the center of all areas of your life?**
 
     * Personal life
     * Home/ family life (partner, parent, etc.)
@@ -475,12 +475,12 @@ Four Steps of Application
     * Church life
     * Community
 
-3. Meditate on Scripture.
+3. **Meditate on Scripture.**
 
     * Memory is the key to meditation. You can only meditate on what you have in you (your memory bank).
     * Memorize Scripture with Topical Memory System.
 
-4. Practice applying God's truth.
+4. **Practice applying God's truth.**
 
     * Ask yourself, Is there some area of my life where the truth is needed?
 
