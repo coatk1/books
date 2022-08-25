@@ -76,3 +76,11 @@ Christian Living
 * Link to notes: N/A
 * Link to Amazon: N/A
 
+9. Living By The Book
+=====================
+* Author(s): Howard Hendricks and William Hendricks
+* ISBN: 978-0-8024-0823-5
+* Rating: 5/5
+* Completed: 08/2022
+* Link to notes: `Here <https://github.com/coatk1/books/blob/master/christian-living/living-by-the-book.rst>`__
+* Link to Amazon: https://www.amazon.com/Living-Book-Science-Reading-Bible/dp/0802408230
