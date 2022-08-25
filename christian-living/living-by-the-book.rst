@@ -5,7 +5,7 @@ Living By The Book
 .. contents::
 
 Notes
-====
+=====
 * Living By The Book, pg(s): 32, 36-37, 46-47, 55, 119-126, 182, 186-190, 205, 211, 224-226, 271-272, 301, 313, 321-322, 347-349, 359, 374-375
 * "The Bible will keep you from sin, or sin will keep you from the Bible." - Unknown
 * "The riches of God are free, but they are not cheap." - Howard Hendricks
@@ -25,7 +25,7 @@ Notes
 * The ultimate aim of Bible study is to know God. The Bible was written to change our lives. Have a goal in mind when studying the Bible, direction and diligence are key not speed.
 
 Observation (What do I see?)
-====
+============================
 * Atmosphere: transport your senses to the passage, imagine yourself there when the author was speaking or writing those words.
 * Goal is to observe, not just see.
 * The more you read, the more you will come across new observations but it takes time and patience.
@@ -36,7 +36,7 @@ Observation (What do I see?)
 * Can also use charts to summarize an entire book.
 
 Ten Strategies to First-Rate Reading
-----
+------------------------------------
 1. **Read Thoughtfully**: be intentional when reading the Bible.
 2. **Read Repeatedly**: listen to or read aloud entire books (or even switch translations when getting bored). Each book is a unit and it helps to get the big picture.
 3. **Read Patiently**:
@@ -115,7 +115,7 @@ Ten Strategies to First-Rate Reading
 10. **Read Telescopically (Zoom Out)**: relate scriptures to their context as a whole/ zoom out. Look for connectives, context of surrounding scriptures, context of the book as a whole, and the historical context of the book.
 
 The Laws of Structure
-+++
++++++++++++++++++++++
 * **Cause and Effect**: one event, concept, or action that causes another (key terms: *therefore*, *so*, *then*, *as a result*).
 * **Climax and Resolution**: a progression of events or ideas that climb to a certain high point before descending.
 * **Comparison**: two or more elements that are alike or similar (key terms: *like*, *as*, *too*, *also*).
@@ -131,7 +131,7 @@ The Laws of Structure
 * **Specific to General, General to Specific**: progression of thought from a single example to a general principle, or vice versa.
 
 Six Things to Look for in Scripture
----
+-----------------------------------
 1. **Things Emphasized**:
 
     * **Amount of space**: how much space is given to this subject?
@@ -167,10 +167,10 @@ Six Things to Look for in Scripture
 6. **Things True to Life**: principles that apply to your reality. Related characters in scripture to yourself and ask what would you do?
 
 Charts
----
+------
 
 How to study a section/ segment
-+++
++++++++++++++++++++++++++++++++
 1. Read the entire section.
 2. Identify and label each paragraph. State the main idea or theme in each paragraph with one or two words.
 3. Evaluate the paragraphs and use the six things to look for.
@@ -189,7 +189,7 @@ How to study a section/ segment
 10. Share the results of your study with someone else.
 
 How to create a chart
-+++
++++++++++++++++++++++
 1. Assign titles and labels that summarizes the material.
 2. Ask:
 
@@ -210,7 +210,7 @@ How to create a chart
 6. Revise your charts as you continue to study. Remember they are a guide.
 
 Interpretation (What does it mean?)
-====
+===================================
 * Questions: ask the Bible questions.
 * Answers: will come from observation, spend more time observing than interpreting.
 * Integration: reconstruct the meaning of the passage after you've taken it apart to inspect the details.
@@ -243,7 +243,7 @@ Interpretation (What does it mean?)
 * "90% of the will of God will be found from the neck up." - Donald Gray Barnhouse
 
 Literary Sub-Genres of the Bible
----
+--------------------------------
 * **Exposition**: an carefully reasoned argument or explanation of a body of objective truth. Pay attention to it's structure and the terms it employ.
 * **Narrative**: a broad category of stories. Pay attention to:
 
@@ -310,7 +310,7 @@ Literary Sub-Genres of the Bible
 * **Tragedy**: the downfall of a person.
 
 Five Keys to Interpretation
----
+---------------------------
 1. **Content**: the raw material.
 2. **Context**: the text before and after.
 
@@ -353,7 +353,7 @@ Five Keys to Interpretation
     * Use Bible Commentaries
 
 Ten Steps to Figuring Out the Figurative
----
+----------------------------------------
 1. Use the literal sense unless there is some good reason no to.
 2. Use the figurative sense when the passage tells you to do so.
 3. Use the figurative sense if a literal meaning is impossible or absurd.
@@ -366,7 +366,7 @@ Ten Steps to Figuring Out the Figurative
 10. Use the figurative sense if a literal interpretation would involve a contradiction in doctrine.
 
 Figures of Speech
-+++
++++++++++++++++++
 * **Anthropomorphism**: the attribution of human features or actions to God.
 * **Apostrophe**: addressing a thing as if it were a person, or an absent or imaginary person as if he were present.
 * **Euphemism**: the use of a less offensive expression to indicate a more offensive one.
@@ -381,7 +381,7 @@ Figures of Speech
 * **Simile**: a comparison using "like" or "as."
 
 Application (How does it work? Not if it works.)
-====
+================================================
 * How does the passage work for you in your life?
 * How does the passage work for others in their lives?
 * Observation + Interpretation + No Application = Abortion (when you study but fail to apply Scripture to your life)
@@ -458,7 +458,7 @@ Application (How does it work? Not if it works.)
 * The best way to share your results from studying Scripture, is through your life. Be an example.
 
 Four Steps of Application
----
+-------------------------
 1. Know the text (observation + interpretation) and know yourself (your spiritual assets and spiritual liabilities).
 
     * Knowing your assets will develop your confidence, things God has done for you.
@@ -485,13 +485,13 @@ Four Steps of Application
     * Ask yourself, Is there some area of my life where the truth is needed?
 
 The Word
-+++
+++++++++
 * Once you have a new relationship with God and His word, you will have a new relationship with yourself, as well as a new relationship with the enemy.
 * The Word exposes your sin. You and others are victims of the enemy, and not the enemy itself.
 * The Word gives you God's promises, commands and principles, and examples to follow.
 
 Nine Applicable Questions to Ask
----
+--------------------------------
 1. Is there an example for me to follow?
 2. Is there a sin to avoid?
 3. Is there a promise to claim?
@@ -503,7 +503,7 @@ Nine Applicable Questions to Ask
 9. Is there a challenge to face (where can Scripture challenge you to change)?
 
 Know the Context When Applying Scripture
----
+----------------------------------------
 * There is context of Scripture and context in which we live.
 * God's Word doesn't change, but our world does.
 * What was the context back then? What is the context now? And what is the truth that remains true regardless of the cultural context?
@@ -513,10 +513,10 @@ Know the Context When Applying Scripture
 * When studying context use a comparison (concordance) and consultation.
 
 Studying Culture
-+++
+++++++++++++++++
 
 Power
-^^^
+^^^^^
 * Where are the centers of power?
 * Who is in charge?
 * How do they gain control?
@@ -529,7 +529,7 @@ Power
 * Who exerts influence whether or not they are in power?
 
 Communication
-^^^
+^^^^^^^^^^^^^
 * What are the means of communication?
 * How is news and information distributed?
 * Who controls the media?
@@ -539,7 +539,7 @@ Communication
 * How do the means of communication shape the message that are communicated?
 
 Money and Economics
-^^^
+^^^^^^^^^^^^^^^^^^^
 * What place does money have in the culture's value? Why?
 * How do people earn a living?
 * With whom does society trade?
@@ -555,7 +555,7 @@ Money and Economics
 * How does that influence the culture?
 
 Ethnicity
-^^^
+^^^^^^^^^
 * What peoples make up the culture?
 * Where did they come from?
 * What history and values do they bring?
@@ -569,13 +569,13 @@ Ethnicity
 * What traditions and values characterize the various sub-cultures?
 
 Gender
-^^^
+^^^^^^
 * What are the roles of men and women?
 * How do the genders relate?
 * What problems confront either gender? Why?
 
 Generations
-^^^
+^^^^^^^^^^^
 * What value does the culture place on the family?
 * How are families structured?
 * Who are the key families?
@@ -591,7 +591,7 @@ Generations
 * What happens to the elderly?
 
 Religion and wordview
-^^^
+^^^^^^^^^^^^^^^^^^^^^
 * What are the dominant religions?
 * Where did they come from?
 * What condition are they in now?
@@ -604,13 +604,13 @@ Religion and wordview
 * What has been its response?
 
 The arts
-^^^
+^^^^^^^^
 * What kind of art is the culture producing?
 * What is the art saying about the people in the culture? About the world?
 * What place is given to the artist?
 
 History and time
-^^^
+^^^^^^^^^^^^^^^^
 * What legends and myths have been passed down?
 * What stories are told and retold? Why?
 * Who writes the history?
@@ -621,7 +621,7 @@ History and time
 * What do children represent? Who represents children?
 
 Place
-^^^
+^^^^^
 * Where is the culture situated geographically?
 * What topographic and climatic factors influence day-to-day life?
 * How mobile is the society in comparison to other societies?
@@ -634,7 +634,7 @@ Place
 * What monuments and memorials are there?
 
 Resources
-^^^
+^^^^^^^^^
 * What natural resources (e.g. water, oil, natural gas, timber) does the society possess?
 * How much is there?
 * Who has access to and control of those resources?
@@ -643,25 +643,25 @@ Resources
 * What are the culture's geographical assets (e.g. seaports, mountain ranges, arable land).
 
 Guidelines to discern principles from Scripture
----
+-----------------------------------------------
 1. **Principles should correlate with the general teachings of Scripture**: comparing Scripture with Scripture.
 2. **Principles should speak to the needs, interests, questions, and problems of real life today**: general truths from Scripture that can apply to a contemporary situation.
 3. **Principles should indicate a course of action**: how will we apply this principle?
 4. **Principles should be supported by other godly people**
 
 Resources
-===
+=========
 
 Concordances
----
+------------
 * https://www.biblegateway.com/keyword/
 
 Bible Dictionaries
----
+------------------
 * https://www.biblegateway.com/resources/eastons-bible-dictionary/toc
 
 Online
----
+------
 * https://bible.org/
 * https://netbible.org/
 * https://www.desiringgod.org/
